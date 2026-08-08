@@ -1,0 +1,24 @@
+{
+  "manifest_version": 1,
+  "generated_at": "2026-08-08T23:07:11.061703+00:00",
+  "documents": [
+    {
+      "id": "ctb",
+      "name": "CTB — Código de Trânsito Brasileiro",
+      "version": 1,
+      "hash": "056ecd1d81a811d5378750d5ce7ce16ed619a2941eacfd555af2a9f1b542cccc",
+      "size_bytes": 1313443,
+      "download_url": "https://raw.githubusercontent.com/edggarlima-hue/fiscaliza-content/main/content/ctb.html",
+      "min_app_version": "2.3.10"
+    },
+    {
+      "id": "mbft",
+      "name": "MBFT — Manual Brasileiro de Fiscalização de Trânsito",
+      "version": 1,
+      "hash": "c6f9f94805868363ff2d0c4a02124bb494a1acdd1a9c673fb57576d40e0f3a63",
+      "size_bytes": 3325248,
+      "download_url": "https://raw.githubusercontent.com/edggarlima-hue/fiscaliza-content/main/content/mbft.json",
+      "min_app_version": "2.3.10"
+    }
+  ]
+}
