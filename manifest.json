@@ -9,7 +9,7 @@
       "hash": "056ecd1d81a811d5378750d5ce7ce16ed619a2941eacfd555af2a9f1b542cccc",
       "size_bytes": 1313443,
       "download_url": "https://raw.githubusercontent.com/edggarlima-hue/fiscaliza-content/main/content/ctb.html",
-      "min_app_version": "2.3.10"
+      "min_app_version": "1.0.0"
     },
     {
       "id": "mbft",
@@ -18,7 +18,7 @@
       "hash": "27709b4a00e1dd286b883a1c91c7062c7199a74dc64e8ea78eb2d1212f4e3a81",
       "size_bytes": 3331944,
       "download_url": "https://raw.githubusercontent.com/edggarlima-hue/fiscaliza-content/main/content/mbft.json",
-      "min_app_version": "2.3.10"
+      "min_app_version": "1.0.0"
     }
   ]
 }
