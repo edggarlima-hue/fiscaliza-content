@@ -1,6 +1,6 @@
 {
   "manifest_version": 1,
-  "generated_at": "2026-08-12T20:38:15.146461+00:00",
+  "generated_at": "2026-08-14T15:55:09.740342+00:00",
   "documents": [
     {
       "id": "ctb",
@@ -14,9 +14,9 @@
     {
       "id": "mbft",
       "name": "MBFT — Manual Brasileiro de Fiscalização de Trânsito",
-      "version": 2,
-      "hash": "14e0a927d699278ed22cc6673daaeb53f8db4896dbfc01a31bdd3e1fe7cb895c",
-      "size_bytes": 3325243,
+      "version": 3,
+      "hash": "27709b4a00e1dd286b883a1c91c7062c7199a74dc64e8ea78eb2d1212f4e3a81",
+      "size_bytes": 3331944,
       "download_url": "https://raw.githubusercontent.com/edggarlima-hue/fiscaliza-content/main/content/mbft.json",
       "min_app_version": "2.3.10"
     }
