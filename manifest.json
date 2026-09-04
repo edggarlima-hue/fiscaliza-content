@@ -22,12 +22,12 @@
     }
   ],
   "app": {
-    "latest_version": "1.0.11",
+    "latest_version": "1.0.12",
     "minimum_supported_version": "1.0.1",
-    "download_url": "https://github.com/edggarlima-hue/fiscaliza-content/releases/download/v1.0.11/fiscaliza-1.0.11.apk",
-    "release_notes": "Auditoria geral: tela de erro tratada para rota desconhecida, corrige possivel crash ao criar pasta e corrige questao de quiz malformada que podia travar a inicializacao do app",
+    "download_url": "https://github.com/edggarlima-hue/fiscaliza-content/releases/download/v1.0.12/fiscaliza-1.0.12.apk",
+    "release_notes": "Auditoria pente fino: reduz o app de 205MB para 169MB (imagens PNG convertidas para JPEG, assets orfaos removidos), corrige atomicidade do sync, acessibilidade (mapa, campos de dialogo/busca) e logs silenciosos",
     "mandatory": false,
-    "sha256": "6e9e1f6644070a90d22d9f17628ec4578be8a8b16c51c9e569b782b799e37086",
-    "size_bytes": 215327043
+    "sha256": "c86c51f8af56e8890a3d0a7af3cd013c98d2d60f3a2188e1839e3a3bfa0528de",
+    "size_bytes": 177301755
   }
 }
