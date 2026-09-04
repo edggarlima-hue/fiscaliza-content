@@ -22,12 +22,12 @@
     }
   ],
   "app": {
-    "latest_version": "1.0.10",
+    "latest_version": "1.0.11",
     "minimum_supported_version": "1.0.1",
-    "download_url": "https://github.com/edggarlima-hue/fiscaliza-content/releases/download/v1.0.10/fiscaliza-1.0.10.apk",
-    "release_notes": "Corrige o slogan cortado na tela inicial (agora quebra em varias linhas) e muda a cor do slogan para azul marinho nas telas Inicial e Sobre",
+    "download_url": "https://github.com/edggarlima-hue/fiscaliza-content/releases/download/v1.0.11/fiscaliza-1.0.11.apk",
+    "release_notes": "Auditoria geral: tela de erro tratada para rota desconhecida, corrige possivel crash ao criar pasta e corrige questao de quiz malformada que podia travar a inicializacao do app",
     "mandatory": false,
-    "sha256": "eed19ea8cd4ce0693ac0d43474e16d59d46397090948928becf52a25303d3e7b",
-    "size_bytes": 215326991
+    "sha256": "6e9e1f6644070a90d22d9f17628ec4578be8a8b16c51c9e569b782b799e37086",
+    "size_bytes": 215327043
   }
 }
