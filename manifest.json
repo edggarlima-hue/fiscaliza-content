@@ -22,12 +22,12 @@
     }
   ],
   "app": {
-    "latest_version": "1.0.1",
+    "latest_version": "1.0.2",
     "minimum_supported_version": "1.0.1",
-    "download_url": "https://github.com/edggarlima-hue/fiscaliza-content/releases/download/v1.0.1/fiscaliza-1.0.1.apk",
-    "release_notes": "Nova versao 1.0.1: atalhos de Circunscricao Rodoviaria e Pontos de Referencia na tela inicial, e sistema de aviso de atualizacao do app em Configuracoes",
+    "download_url": "https://github.com/edggarlima-hue/fiscaliza-content/releases/download/v1.0.2/fiscaliza-1.0.2.apk",
+    "release_notes": "Corrige o link da planilha Pontos de Referencia (apontava para aba vazia), remove palavra oficial do card, e adiciona saudacao por horario (Bom dia/Boa tarde/Boa noite) na tela inicial",
     "mandatory": false,
-    "sha256": "7ae163e704e152a6dae9ad21d0cec5fda68674609d319b6b8957284bf242df32",
+    "sha256": "d5136ddfab7de6b40fa9f0502a87ec560fdd8d201b1a195555f8dccc7865faa8",
     "size_bytes": 215133270
   }
 }
