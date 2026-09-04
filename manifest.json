@@ -22,12 +22,12 @@
     }
   ],
   "app": {
-    "latest_version": "1.0.7",
+    "latest_version": "1.0.8",
     "minimum_supported_version": "1.0.1",
-    "download_url": "https://github.com/edggarlima-hue/fiscaliza-content/releases/download/v1.0.7/fiscaliza-1.0.7.apk",
-    "release_notes": "Corrige acentuação das notas de versão, justifica o texto da tela Sobre e corrige a palavra Determinação em maiúscula na Circunscrição Rodoviária e na tela Sobre",
+    "download_url": "https://github.com/edggarlima-hue/fiscaliza-content/releases/download/v1.0.8/fiscaliza-1.0.8.apk",
+    "release_notes": "Adiciona estrela de favoritar em Links Uteis (documentos), Pontos de Referencia SOP/CE e diretamente nos resultados da Busca Global",
     "mandatory": false,
-    "sha256": "0f29360651c209710c2aad3da1e355d95a9bc4172c0dc7016ba7c144bd81bcf6",
+    "sha256": "fb8ff2bd0147103a4adec942f2f3feaf9164a8effebe1141cf7547268f26cb53",
     "size_bytes": 215326987
   }
 }
