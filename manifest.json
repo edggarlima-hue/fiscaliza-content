@@ -22,7 +22,7 @@
     }
   ],
   "app": {
-    "latest_version": "1.0.3",
+    "latest_version": "1.0.4",
     "minimum_supported_version": "1.0.1",
     "download_url": "https://github.com/edggarlima-hue/fiscaliza-content/releases/download/v1.0.3/fiscaliza-1.0.3.apk",
     "release_notes": "Adiciona banner de atualizacao na tela inicial (nao so em Configuracoes) e notificacao Android local quando ha versao nova disponivel",
