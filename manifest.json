@@ -22,12 +22,12 @@
     }
   ],
   "app": {
-    "latest_version": "1.0.9",
+    "latest_version": "1.0.10",
     "minimum_supported_version": "1.0.1",
-    "download_url": "https://github.com/edggarlima-hue/fiscaliza-content/releases/download/v1.0.9/fiscaliza-1.0.9.apk",
-    "release_notes": "Adiciona o slogan oficial 'O essencial da fiscalizacao na palma da mao' abaixo do nome Fiscaliza na tela inicial e na tela Sobre",
+    "download_url": "https://github.com/edggarlima-hue/fiscaliza-content/releases/download/v1.0.10/fiscaliza-1.0.10.apk",
+    "release_notes": "Corrige o slogan cortado na tela inicial (agora quebra em varias linhas) e muda a cor do slogan para azul marinho nas telas Inicial e Sobre",
     "mandatory": false,
-    "sha256": "937e6458bce0d79b501d5551a91df6e91a0bfb66176963a4b5879935f51b00d6",
-    "size_bytes": 215326987
+    "sha256": "eed19ea8cd4ce0693ac0d43474e16d59d46397090948928becf52a25303d3e7b",
+    "size_bytes": 215326991
   }
 }
