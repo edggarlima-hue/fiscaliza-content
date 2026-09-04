@@ -22,12 +22,12 @@
     }
   ],
   "app": {
-    "latest_version": "1.0.5",
+    "latest_version": "1.0.6",
     "minimum_supported_version": "1.0.1",
-    "download_url": "https://github.com/edggarlima-hue/fiscaliza-content/releases/download/v1.0.5/fiscaliza-1.0.5.apk",
-    "release_notes": "Reorganiza saudacao da home (fonte maior, abaixo do subtitulo) e corrige restauracao de backup que nao encontrava o arquivo .zip no seletor",
+    "download_url": "https://github.com/edggarlima-hue/fiscaliza-content/releases/download/v1.0.6/fiscaliza-1.0.6.apk",
+    "release_notes": "Reduz o intervalo minimo entre checagens automaticas de atualizacao de 24h para 3h, para o aviso de nova versao aparecer no mesmo dia sem precisar verificar manualmente",
     "mandatory": false,
-    "sha256": "b1223f426c8a0c840f1dd565680fa4fc37739495ab11576283d5c8469b513411",
-    "size_bytes": 215326983
+    "sha256": "2bd3fdeb7c78943f99081acae548fbdff6af6e5a1395e038a9e95d35053993e9",
+    "size_bytes": 215326987
   }
 }
