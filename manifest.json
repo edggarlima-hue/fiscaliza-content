@@ -24,10 +24,10 @@
   "app": {
     "latest_version": "1.0.4",
     "minimum_supported_version": "1.0.1",
-    "download_url": "https://github.com/edggarlima-hue/fiscaliza-content/releases/download/v1.0.3/fiscaliza-1.0.3.apk",
-    "release_notes": "Adiciona banner de atualizacao na tela inicial (nao so em Configuracoes) e notificacao Android local quando ha versao nova disponivel",
+    "download_url": "https://github.com/edggarlima-hue/fiscaliza-content/releases/download/v1.0.4/fiscaliza-1.0.4.apk",
+    "release_notes": "Adiciona ponto de exclamacao na saudacao da tela inicial (Bom dia!, Boa tarde!, Boa noite!)",
     "mandatory": false,
-    "sha256": "fd5d3f4e5640c6b8d7222d765075aaaa5154f5be92154f661b49f6a1d315563b",
+    "sha256": "f167132b4455dce5f19cb76c4ab688395662051d90f36cd10d740ca4b0522e8b",
     "size_bytes": 215326987
   }
 }
