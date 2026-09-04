@@ -22,12 +22,12 @@
     }
   ],
   "app": {
-    "latest_version": "1.0.6",
+    "latest_version": "1.0.7",
     "minimum_supported_version": "1.0.1",
-    "download_url": "https://github.com/edggarlima-hue/fiscaliza-content/releases/download/v1.0.6/fiscaliza-1.0.6.apk",
-    "release_notes": "Reduz o intervalo minimo entre checagens automaticas de atualizacao de 24h para 3h, para o aviso de nova versao aparecer no mesmo dia sem precisar verificar manualmente",
+    "download_url": "https://github.com/edggarlima-hue/fiscaliza-content/releases/download/v1.0.7/fiscaliza-1.0.7.apk",
+    "release_notes": "Corrige acentuação das notas de versão, justifica o texto da tela Sobre e corrige a palavra Determinação em maiúscula na Circunscrição Rodoviária e na tela Sobre",
     "mandatory": false,
-    "sha256": "2bd3fdeb7c78943f99081acae548fbdff6af6e5a1395e038a9e95d35053993e9",
+    "sha256": "0f29360651c209710c2aad3da1e355d95a9bc4172c0dc7016ba7c144bd81bcf6",
     "size_bytes": 215326987
   }
 }
