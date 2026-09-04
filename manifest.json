@@ -22,12 +22,12 @@
     }
   ],
   "app": {
-    "latest_version": "1.0.12",
+    "latest_version": "1.0.13",
     "minimum_supported_version": "1.0.1",
-    "download_url": "https://github.com/edggarlima-hue/fiscaliza-content/releases/download/v1.0.12/fiscaliza-1.0.12.apk",
-    "release_notes": "Auditoria pente fino: reduz o app de 205MB para 169MB (imagens PNG convertidas para JPEG, assets orfaos removidos), corrige atomicidade do sync, acessibilidade (mapa, campos de dialogo/busca) e logs silenciosos",
+    "download_url": "https://github.com/edggarlima-hue/fiscaliza-content/releases/download/v1.0.13/fiscaliza-1.0.13.apk",
+    "release_notes": "Recomprime os 6 maiores PDFs do app (informativo gerencial, resolucao etilometro, MBFT, mapas de VTRs e postos, tecnicas IDV), reduzindo mais ~37MB sem perda de legibilidade",
     "mandatory": false,
-    "sha256": "c86c51f8af56e8890a3d0a7af3cd013c98d2d60f3a2188e1839e3a3bfa0528de",
-    "size_bytes": 177301755
+    "sha256": "7bbd48a5abd310d150a1dfa838cfe6a61220ab6d80b0697e051d1a5dc3c7709a",
+    "size_bytes": 143054235
   }
 }
