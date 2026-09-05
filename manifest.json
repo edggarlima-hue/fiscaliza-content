@@ -22,12 +22,12 @@
     }
   ],
   "app": {
-    "latest_version": "1.0.14",
+    "latest_version": "1.0.15",
     "minimum_supported_version": "1.0.1",
-    "download_url": "https://github.com/edggarlima-hue/fiscaliza-content/releases/download/v1.0.14/fiscaliza-1.0.14.apk",
-    "release_notes": "Corrige o texto da tela Sobre para nao sugerir download automatico da atualizacao",
+    "download_url": "https://github.com/edggarlima-hue/fiscaliza-content/releases/download/v1.0.15/fiscaliza-1.0.15.apk",
+    "release_notes": "Auditoria pente fino no Quiz: corrige botao Proxima cortado e chip Respondidas quebrado, remove 1 questao com enunciado quebrado e 3 duplicatas exatas (339 questoes ao todo, mantidas as versoes com explicacao mais completa)",
     "mandatory": false,
-    "sha256": "80c20626597eeef5826830fe9fcc194494da7b396a3d6edd4c4dcd4288334b29",
-    "size_bytes": 143053839
+    "sha256": "f467e6b279dbdff91c6bb445d4ef5b3bc631f12784188786d15ec1ca013278a0",
+    "size_bytes": 143053171
   }
 }
