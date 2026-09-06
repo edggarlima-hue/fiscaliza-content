@@ -22,12 +22,12 @@
     }
   ],
   "app": {
-    "latest_version": "1.0.16",
+    "latest_version": "1.0.17",
     "minimum_supported_version": "1.0.1",
-    "download_url": "https://github.com/edggarlima-hue/fiscaliza-content/releases/download/v1.0.16/fiscaliza-1.0.16.apk",
-    "release_notes": "Corrige botoes Nova pasta/Adicionar arquivo cortados em Meus Documentos e o mesmo padrao em Copiar texto/Compartilhar e Cancelar/Aplicar (previa de tema) - inclui correcao de bug que zerava a tela inteira de previa de tema",
+    "download_url": "https://github.com/edggarlima-hue/fiscaliza-content/releases/download/v1.0.17/fiscaliza-1.0.17.apk",
+    "release_notes": "Substitui o icone generico pela marca oficial do Fiscaliza na tela de Circunscricao Rodoviaria",
     "mandatory": false,
-    "sha256": "98b8e29d57ffdd12c0f0144de5268d061c41bfd2d8aea89c7f7bbeb2ed34dace",
-    "size_bytes": 143053171
+    "sha256": "687ba5ac16077700019a9027a128e717b92db47338616204394f26f72650259c",
+    "size_bytes": 143059527
   }
 }
