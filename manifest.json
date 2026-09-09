@@ -22,12 +22,12 @@
     }
   ],
   "app": {
-    "latest_version": "1.0.17",
+    "latest_version": "1.0.18",
     "minimum_supported_version": "1.0.1",
-    "download_url": "https://github.com/edggarlima-hue/fiscaliza-content/releases/download/v1.0.17/fiscaliza-1.0.17.apk",
-    "release_notes": "Substitui o icone generico pela marca oficial do Fiscaliza na tela de Circunscricao Rodoviaria",
+    "download_url": "https://github.com/edggarlima-hue/fiscaliza-content/releases/download/v1.0.18/fiscaliza-1.0.18.apk",
+    "release_notes": "Agenda Operacional: suporte a multiplas fotos consecutivas e importacao multipla de arquivos",
     "mandatory": false,
-    "sha256": "687ba5ac16077700019a9027a128e717b92db47338616204394f26f72650259c",
-    "size_bytes": 143059527
+    "sha256": "18efebfd60169e281feb680542f26c31fe941220101dac5f644a7bf19cb69528",
+    "size_bytes": 143059655
   }
 }
