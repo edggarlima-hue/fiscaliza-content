@@ -22,12 +22,12 @@
     }
   ],
   "app": {
-    "latest_version": "1.0.19",
+    "latest_version": "1.0.20",
     "minimum_supported_version": "1.0.1",
-    "download_url": "https://github.com/edggarlima-hue/fiscaliza-content/releases/download/v1.0.19/fiscaliza-1.0.19.apk",
-    "release_notes": "Agenda Operacional: categorias personalizadas e area rolavel nas fichas BAT/Ocorrencia. Meus Documentos: ordenacao por nome/data e selecao multipla para excluir varios arquivos de uma vez. Correcoes de estabilidade em ambas as telas.",
+    "download_url": "https://github.com/edggarlima-hue/fiscaliza-content/releases/download/v1.0.20/fiscaliza-1.0.20.apk",
+    "release_notes": "Agenda Operacional: microfone removido do titulo (categorias ja induzem o titulo sozinhas), botoes reordenados por agrupamento (Localizacao, Camera, Microfone, Mais opcoes, Excluir), rotulo Categoria corrigido. Correcoes de estabilidade: categoria da anotacao agora e sempre salva corretamente, protecao contra excluir anotacao/foto durante uma operacao em andamento, limpeza automatica de arquivo orfao em caso de falha. Aviso de atualizacao do app corrigido para nao ficar repetindo a mesma mensagem apos instalar a versao nova.",
     "mandatory": false,
-    "sha256": "22fa6fc549f2ac6c4ee99be9df7f2f7035fa33e567725fbc835097b1b07cbb02",
-    "size_bytes": 143191019
+    "sha256": "2d538d09385e23f351cbeb8e6ed30f211e2d3b06360436a86838011ad38c822b",
+    "size_bytes": 143322091
   }
 }
