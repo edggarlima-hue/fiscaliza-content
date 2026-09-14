@@ -22,12 +22,12 @@
     }
   ],
   "app": {
-    "latest_version": "1.0.20",
+    "latest_version": "1.0.21",
     "minimum_supported_version": "1.0.1",
-    "download_url": "https://github.com/edggarlima-hue/fiscaliza-content/releases/download/v1.0.20/fiscaliza-1.0.20.apk",
-    "release_notes": "Agenda Operacional: microfone removido do titulo (categorias ja induzem o titulo sozinhas), botoes reordenados por agrupamento (Localizacao, Camera, Microfone, Mais opcoes, Excluir), rotulo Categoria corrigido. Correcoes de estabilidade: categoria da anotacao agora e sempre salva corretamente, protecao contra excluir anotacao/foto durante uma operacao em andamento, limpeza automatica de arquivo orfao em caso de falha. Aviso de atualizacao do app corrigido para nao ficar repetindo a mesma mensagem apos instalar a versao nova.",
+    "download_url": "https://github.com/edggarlima-hue/fiscaliza-content/releases/download/v1.0.21/fiscaliza-1.0.21.apk",
+    "release_notes": "Reforcos de confiabilidade: backup e restauracao de anexos mais seguros, protecao contra operacoes simultaneas, contagem de fotos restauradas, sincronizacao mais estavel e melhorias de responsividade.",
     "mandatory": false,
-    "sha256": "2d538d09385e23f351cbeb8e6ed30f211e2d3b06360436a86838011ad38c822b",
+    "sha256": "f8b77d5f3e0e62ac221044994ff58ce88d4e849b3f89ba92ded9a9f87e217675",
     "size_bytes": 143322091
   }
 }
