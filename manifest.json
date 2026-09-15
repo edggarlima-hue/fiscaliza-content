@@ -1,13 +1,13 @@
 {
   "manifest_version": 1,
-  "generated_at": "2026-08-14T15:55:09.740342+00:00",
+  "generated_at": "2026-09-15T12:09:41.533003+00:00",
   "documents": [
     {
       "id": "ctb",
       "name": "CTB — Código de Trânsito Brasileiro",
-      "version": 1,
-      "hash": "056ecd1d81a811d5378750d5ce7ce16ed619a2941eacfd555af2a9f1b542cccc",
-      "size_bytes": 1313443,
+      "version": 2,
+      "hash": "8982e04acc3849be1c3234f93181d39240e552eb80813497c112d1b42027a7d9",
+      "size_bytes": 1314133,
       "download_url": "https://raw.githubusercontent.com/edggarlima-hue/fiscaliza-content/main/content/ctb.html",
       "min_app_version": "1.0.0"
     },
