@@ -25,9 +25,9 @@
     "latest_version": "1.0.21",
     "minimum_supported_version": "1.0.1",
     "download_url": "https://github.com/edggarlima-hue/fiscaliza-content/releases/download/v1.0.21/fiscaliza-1.0.21.apk",
-    "release_notes": "Reforcos de confiabilidade: backup e restauracao de anexos mais seguros, protecao contra operacoes simultaneas, contagem de fotos restauradas, sincronizacao mais estavel e melhorias de responsividade.",
+    "release_notes": "Reorganização visual do app para telas menores, orientação paisagem e fonte ampliada (Home, barras superiores, cards, botões, Agenda Operacional e Configurações). Texto de artigos e fichas (CTB, MBFT e outros) agora alinhado de forma justificada, mais fácil de ler. Corrigido bug em que uma anotação excluída da Agenda Operacional podia reaparecer sozinha ao reabrir o app.",
     "mandatory": false,
-    "sha256": "f8b77d5f3e0e62ac221044994ff58ce88d4e849b3f89ba92ded9a9f87e217675",
-    "size_bytes": 143322091
+    "sha256": "02d2e4b2ff6396280d68dccb40764d6fab832230a322b7f015a2607f1d230f47",
+    "size_bytes": 143322171
   }
 }
