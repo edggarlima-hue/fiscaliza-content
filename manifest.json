@@ -22,12 +22,12 @@
     }
   ],
   "app": {
-    "latest_version": "1.0.21",
+    "latest_version": "1.0.22",
     "minimum_supported_version": "1.0.1",
-    "download_url": "https://github.com/edggarlima-hue/fiscaliza-content/releases/download/v1.0.21/fiscaliza-1.0.21.apk",
-    "release_notes": "Reorganização visual do app para telas menores, orientação paisagem e fonte ampliada (Home, barras superiores, cards, botões, Agenda Operacional e Configurações). Texto de artigos e fichas (CTB, MBFT e outros) agora alinhado de forma justificada, mais fácil de ler. Corrigido bug em que uma anotação excluída da Agenda Operacional podia reaparecer sozinha ao reabrir o app.",
+    "download_url": "https://github.com/edggarlima-hue/fiscaliza-content/releases/download/v1.0.22/fiscaliza-1.0.22.apk",
+    "release_notes": "Aprimora a consulta da Circunscrição Rodoviária e atualiza o texto da aba Sobre do Fiscaliza.",
     "mandatory": false,
-    "sha256": "02d2e4b2ff6396280d68dccb40764d6fab832230a322b7f015a2607f1d230f47",
-    "size_bytes": 143322171
+    "sha256": "2a3ecce7759884abd37d0272e68e95a6e2a739946a713eef8681b350d87c599c",
+    "size_bytes": 143323931
   }
 }
