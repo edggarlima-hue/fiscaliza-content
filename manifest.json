@@ -25,9 +25,9 @@
     "latest_version": "1.0.22",
     "minimum_supported_version": "1.0.1",
     "download_url": "https://github.com/edggarlima-hue/fiscaliza-content/releases/download/v1.0.22/fiscaliza-1.0.22.apk",
-    "release_notes": "Aprimora a consulta da Circunscrição Rodoviária e atualiza o texto da aba Sobre do Fiscaliza.",
+    "release_notes": "Tela inicial, Configurações e Sobre com visual renovado (cabeçalho institucional, cards reorganizados em grupos por finalidade, ícones coloridos por categoria) — mantém todas as funcionalidades e atalhos de antes, só a organização visual mudou. Saudação por horário do dia continua funcionando normalmente.",
     "mandatory": false,
-    "sha256": "2a3ecce7759884abd37d0272e68e95a6e2a739946a713eef8681b350d87c599c",
-    "size_bytes": 143323931
+    "sha256": "59a9e7f5efa478cd1302229679437927495d51da0afe57b4188a3cb6f57c98f2",
+    "size_bytes": 143324811
   }
 }
