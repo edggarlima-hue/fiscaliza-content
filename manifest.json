@@ -22,12 +22,13 @@
     }
   ],
   "app": {
-    "latest_version": "1.0.23",
+    "latest_version": "1.0.24",
+    "build_number": 106,
     "minimum_supported_version": "1.0.1",
-    "download_url": "https://github.com/edggarlima-hue/fiscaliza-content/releases/download/v1.0.23/Fiscaliza_v1.0.23_build103_OFFICIAL.apk",
-    "release_notes": "Inicialização simplificada: o splash agora exibe somente o ícone oficial do Fiscaliza, sem simulação de celular ou animação visual.",
+    "download_url": "https://github.com/edggarlima-hue/fiscaliza-content/releases/download/v1.0.24/fiscaliza-1.0.24.apk",
+    "release_notes": "Splash sem tremor na abertura, CTB atualizado conforme o Planalto (390 artigos) e MBFT com 414 fichas vigentes. Atualize preferencialmente no Wi-Fi (arquivo de ~141 MB).",
     "mandatory": false,
-    "sha256": "818958b1ff154a0fa5a05aa1eb0d3b4c2b284748d06144c7d39cf874696a6ea4",
-    "size_bytes": 189633839
+    "sha256": "7c5ac7d86965d53ae0c7b2a8d26d7adee4385222789af29d492de2422c66c6f6",
+    "size_bytes": 147893623
   }
 }
