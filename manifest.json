@@ -22,13 +22,13 @@
     }
   ],
   "app": {
-    "latest_version": "1.0.24",
-    "build_number": 106,
+    "latest_version": "1.0.25",
+    "build_number": 107,
     "minimum_supported_version": "1.0.1",
-    "download_url": "https://github.com/edggarlima-hue/fiscaliza-content/releases/download/v1.0.24/fiscaliza-1.0.24.apk",
-    "release_notes": "Splash sem tremor na abertura, CTB atualizado conforme o Planalto (390 artigos) e MBFT com 414 fichas vigentes. Atualize preferencialmente no Wi-Fi (arquivo de ~141 MB).",
+    "download_url": "https://github.com/edggarlima-hue/fiscaliza-content/releases/download/v1.0.25/fiscaliza-1.0.25.apk",
+    "release_notes": "App 1.0.25: Meus Documentos ficou mais completo, com organização em pastas e subpastas, mover e renomear arquivos, busca por arquivos e pastas e informações do documento. Agora também é possível adicionar vários arquivos, selecionar várias fotos da galeria ou tirar várias fotos em sequência. MBFT atualizado com 414 fichas e correções nas fichas 639-43 e 676-90. Também foram feitas melhorias no processo de atualização do CTB e do MBFT. Atualização recomendada. Preferencialmente, atualize usando Wi-Fi (~141 MB).",
     "mandatory": false,
-    "sha256": "7c5ac7d86965d53ae0c7b2a8d26d7adee4385222789af29d492de2422c66c6f6",
-    "size_bytes": 147893623
+    "sha256": "27c42a23d8fc13530a9492ccc4f2c2859de92ae9d69b152bf88ad46e14d47931",
+    "size_bytes": 148614167
   }
 }
