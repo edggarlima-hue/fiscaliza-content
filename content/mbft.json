@@ -22831,7 +22831,7 @@
     "quando_autuar": [
       {
         "numero": "1",
-        "texto": "Condutor que não reduzir a velocidade do veículo, de forma compatível com a segurança do trânsito, nas proximidades de estações de embarque e 2.Art. 311 - desembarque de passageiros, tais como:",
+        "texto": "Condutor que não reduzir a velocidade do veículo, de forma compatível com a segurança do trânsito, nas proximidades de estações de embarque e desembarque de passageiros, tais como:",
         "subitens": [
           {
             "numero": "1.1",
@@ -22863,7 +22863,7 @@
           },
           {
             "numero": "1.8",
-            "texto": "outras estações de embarque ou desembarque de passageiros. estreitos, ou"
+            "texto": "outras estações de embarque ou desembarque de passageiros."
           }
         ]
       }
@@ -22871,24 +22871,24 @@
     "quando_nao_autuar": [
       {
         "numero": "1",
-        "texto": "Pedestres organizados em 1.Não necessita passeatas, cortejos, préstitos e de medidor de desfiles, utilizar enquadramento velocidade. específico: 626-20, art. 220,",
+        "texto": "Pedestres organizados em passeatas, cortejos, préstitos e desfiles, utilizar enquadramento específico: 626-20, art. 220, I.",
         "subitens": []
       },
       {
         "numero": "2",
-        "texto": "Veículo que deixar de reduzir a Trafegar em velocidade de forma compatível velocidade com a segurança no trânsito, incompatível utilizar enquadramento com a segurança específico: nas proximidades",
+        "texto": "Veículo que deixar de reduzir a velocidade de forma compatível com a segurança no trânsito, utilizar enquadramento específico:",
         "subitens": [
           {
             "numero": "2.1",
-            "texto": "nas proximidades de escolas, de escolas, 639-41, art. 220, XIV; hospitais,"
+            "texto": "nas proximidades de escolas, 639-41, art. 220, XIV;"
           },
           {
             "numero": "2.2",
-            "texto": "nas proximidades de estações de hospitais, 639-42, art. 220,"
+            "texto": "nas proximidades de hospitais, 639-42, art. 220, XIV;"
           },
           {
             "numero": "2.3",
-            "texto": "onde haja intensa desembarque de movimentação de pedestres, 639- passageiros, 44, art. 220, XIV. logradouros"
+            "texto": "onde haja intensa movimentação de pedestres, 639-44, art. 220, XIV."
           }
         ]
       }
@@ -22925,7 +22925,7 @@
     "informacoes_complementares": [
       {
         "numero": "1",
-        "texto": "O rol de situações descritas no campo “Quando Autuar” é meramente exemplificativo e não exaure e nem exclui outras situações que impliquem deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito nas proximidades de estações de embarque e desembarque de passageiros. 2",
+        "texto": "O rol de situações descritas no campo “Quando Autuar” é meramente exemplificativo e não exaure e nem exclui outras situações que impliquem deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito nas proximidades de estações de embarque e desembarque de passageiros.",
         "subitens": []
       }
     ],
@@ -30942,7 +30942,7 @@
     "quando_nao_autuar": [
       {
         "numero": "1",
-        "texto": "Veículo com equipamento sistema de iluminação e sinalização alterados, utilizar enquadramento específico: 667-00, art. 230, XIII.",
+        "texto": "Veículo com equipamento do sistema de iluminação e de sinalização alterados, utilizar enquadramento específico: 667-00, art. 230, XIII.",
         "subitens": []
       },
       {
@@ -30951,13 +30951,7 @@
         "subitens": []
       }
     ],
-    "definicoes_procedimentos": [
-      {
-        "numero": null,
-        "texto": "do de",
-        "subitens": []
-      }
-    ],
+    "definicoes_procedimentos": [],
     "observacoes_ait": [
       {
         "numero": "1",
