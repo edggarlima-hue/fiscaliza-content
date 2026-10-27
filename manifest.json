@@ -22,13 +22,13 @@
     }
   ],
   "app": {
-    "latest_version": "1.0.27",
-    "build_number": 109,
+    "latest_version": "1.0.28",
+    "build_number": 110,
     "minimum_supported_version": "1.0.1",
-    "download_url": "https://github.com/edggarlima-hue/fiscaliza-content/releases/download/v1.0.27/fiscaliza-1.0.27.apk",
-    "release_notes": "Links e Documentos úteis ganhou 5 novos links: versões web do BAT e da Ficha de Ocorrência, Painel BPRE, Painel BPRE GTR e mapa de atuação das VTRs da Capital e RMF. O MBFT segue atualizado com a Resolução CONTRAN nº 1.031/2026. Atualização recomendada. Preferencialmente, atualize usando Wi-Fi (~141 MB).",
+    "download_url": "https://github.com/edggarlima-hue/fiscaliza-content/releases/download/v1.0.28/fiscaliza-1.0.28.apk",
+    "release_notes": "O link da versão web da Área de Atuação das VTRs — Capital e RMF (Links e Documentos úteis) passou para um novo endereço. Atualização recomendada. Preferencialmente, atualize usando Wi-Fi (~141 MB).",
     "mandatory": false,
-    "sha256": "adab1dded460c95f40bcbe3d9920261cab82a3f205aacac230a4ca4d834f6c11",
+    "sha256": "fdcd89189c52b21c0ec416871ba01610f8515f36df3cd8d0563222f2c664d244",
     "size_bytes": 147957519
   }
 }
