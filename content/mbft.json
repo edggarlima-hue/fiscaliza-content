@@ -2799,28 +2799,23 @@
     "amparo_legal": "Art. 165.",
     "tipificacao": "Dirigir sob a influência de álcool ou de qualquer outra substância psicoativa que determine dependência.",
     "gravidade": "Gravíssima",
-    "penalidade": "Multa (10 vezes) e suspensão do direito de dirigir por 12 (doze) meses.",
-    "medida_administrativa": "Recolhimento do documento de habilitação e retenção do veículo, observado o disposto no § 4º do art. 270 do CTB. (Vide a Parte Geral deste Manual).",
-    "crime_transito": "SIM",
+    "penalidade": "Multa (10 vezes) e suspensão do direito de dirigir por 12 meses.",
+    "medida_administrativa": "Recolhimento do documento de habilitação e retenção do veículo, observado o disposto no art. 270, § 4º, do CTB. (Vide a Parte Geral deste Manual).",
+    "crime_transito": "SIM — Art. 306 e 310 do CTB",
     "infrator": "Condutor",
-    "competencia": "Órgão ou Entidade de Trânsito Estadual e Rodoviário.",
+    "competencia": "Órgão ou Entidade de Trânsito Estadual, Municipal e Rodoviário.",
     "pontuacao": "Não computável",
     "constatacao": "Mediante abordagem.",
     "valor_multa": 2934.7,
     "quando_autuar": [
       {
         "numero": "1",
-        "texto": "Condutor que apresentar concentração de álcool igual ou superior a 0,05 miligrama de álcool por litro de ar alveolar expirado (0,05 mg/L -medição realizada - MR) em teste de etilômetro.",
+        "texto": "Condutor que apresentar concentração de álcool igual ou superior a 0,05 miligrama de álcool por litro de ar alveolar expirado (0,05 mg/L - medição realizada - MR) em teste de etilômetro.",
         "subitens": []
       },
       {
         "numero": "2",
-        "texto": "Condutor que se recusar a se submeter ao teste do etilômetro ou a qualquer dos procedimentos previstos no art. 277 e que apresentar dois ou mais sinais de alteração da capacidade psicomotora, pelo uso do álcool, descritos no respectivo termo de constatação.",
-        "subitens": []
-      },
-      {
-        "numero": "3",
-        "texto": "Condutor que, submetido a exame de sangue, apresentar qualquer concentração de álcool por litro de sangue.",
+        "texto": "Condutor que se recusar a se submeter ao teste do etilômetro e que apresentar pelo menos dois sinais de alteração da capacidade psicomotora.",
         "subitens": []
       }
     ],
@@ -2837,7 +2832,7 @@
       },
       {
         "numero": "3",
-        "texto": "Condutor que se recusar a se submeter ao teste do etilômetro ou a qualquer dos procedimentos previstos no art. 277 e não apresentar sinais ou apresentar apenas um sinal da alteração da capacidade psicomotora, utilizar enquadramento específico: 757-90, art. 165-A.",
+        "texto": "Condutor que se recusar a se submeter ao teste do etilômetro e não apresentar pelo menos dois sinais da alteração da capacidade psicomotora, utilizar enquadramento específico: 757-90, art. 165- A.",
         "subitens": []
       },
       {
@@ -2864,47 +2859,42 @@
       },
       {
         "numero": "4",
-        "texto": "Para se constatar a alteração da capacidade psicomotora do condutor deverá ser considerado não somente um sinal, mas um conjunto de sinais que comprovem que ele se encontra sob a influência de álcool, podendo, ainda, serem utilizados, prova testemunhal, imagem, vídeo ou qualquer outro meio de prova em direito admitido.",
+        "texto": "Para constatar a alteração da capacidade psicomotora do condutor deverão ser identificados, pelo menos, dois sinais que comprovem que ele se encontra sob a influência de álcool, conforme normativo do Contran, os quais devem constar do AIT ou em termo específico que acompanhe o auto. De forma suplementar, poderão ser utilizados prova testemunhal, imagem, vídeo ou qualquer outro meio de prova em direito admitido.",
         "subitens": []
       },
       {
         "numero": "5",
-        "texto": "Os sinais de alteração da capacidade psicomotora estão descritos em normativo do Contran e devem constar no AIT ou em termo específico que acompanhe o auto.",
+        "texto": "Quando o teste do etilômetro apresentar valor igual ou superior a 0,34mg/L de ar alveolar (MR), ou quando o condutor apresentar dois ou mais sinais de alteração da capacidade psicomotora, estará caracterizado o crime do artigo 306 do CTB, motivo pelo qual deverá ser noticiado o fato à autoridade competente para o registro da infração penal.",
         "subitens": []
       },
       {
         "numero": "6",
-        "texto": "Quando o teste do etilômetro apresentar valor igual ou superior a 0,34mg/L de ar alveolar (MR), ou quando o condutor apresentar dois ou mais sinais de alteração da capacidade psicomotora, caracteriza-se a infração penal prevista no art. 306 do CTB e o condutor deve ser conduzido à autoridade competente.",
-        "subitens": []
-      },
-      {
-        "numero": "7",
         "texto": "Em caso de não apresentação de condutor habilitado, o veículo deverá ser encaminhado ao local definido pelo órgão autuador.",
         "subitens": []
       },
       {
-        "numero": "8",
+        "numero": "7",
         "texto": "É vedada a lavratura simultânea de Autos de Infração com base nos artigos 165 e 165-A, na mesma abordagem.",
         "subitens": []
       },
       {
-        "numero": "9",
-        "texto": "O condutor deverá se submeter ao teste ou exame solicitado pelo agente da autoridade de trânsito, no momento da abordagem, cuja recusa a qualquer deles sujeitará o infrator à infração do art. 165 ou 165-A do CTB, conforme o caso.",
+        "numero": "8",
+        "texto": "O condutor deverá se submeter ao teste ofertado pelo agente da autoridade de trânsito, não lhe sendo facultado escolher qual modalidade de verificação pretende realizar.",
         "subitens": []
       },
       {
-        "numero": "10",
+        "numero": "9",
         "texto": "Será considerado como recusa, a simulação do sopro por parte do usuário durante o teste com etilômetro, o que poderá configurar infração do art. 165 ou 165-A, conforme o caso.",
         "subitens": []
       },
       {
-        "numero": "11",
+        "numero": "10",
         "texto": "É permitida a lavratura da infração do art. 165 no caso de atendimento de sinistros de trânsito, desde que seja possível ao condutor realizar o teste ou apresente dois ou mais sinais de alteração da capacidade psicomotora. Neste caso, o horário da infração é o horário em que efetivamente foi realizado o teste ou constato os sinais, sendo que o horário do sinistro deve ser registrado no campo de observações.",
         "subitens": []
       },
       {
-        "numero": "12",
-        "texto": "Em caso de reincidência no período de até 12 (doze) meses, a multa aplica-se em dobro.",
+        "numero": "11",
+        "texto": "Em caso de reincidência no período de até 12 meses, a multa aplica-se em dobro.",
         "subitens": []
       }
     ],
@@ -2916,50 +2906,61 @@
       },
       {
         "numero": "2",
-        "texto": "Condutor se recusou a se submeter ao teste do etilômetro marca xx, modelo xx e nº de série xx, apresentando dois ou mais sinais de alteração da capacidade psicomotora, conforme termo de constatação que acompanha o AIT.",
+        "texto": "Condutor se recusou a se submeter ao teste do etilômetro marca xx, modelo xx e nº de série xx, apresentando pelo menos dois sinais de alteração da capacidade psicomotora, conforme termo de constatação que acompanha o AIT.",
+        "subitens": []
+      },
+      {
+        "numero": "3",
+        "texto": "Condutor se recusou a se submeter ao teste do etilômetro marca xx, modelo xx e nº de série xx, apresentando os seguintes sinais de alteração da capacidade psicomotora: xxxxxxxxxx",
         "subitens": []
       }
     ],
     "informacoes_complementares": [
       {
         "numero": "1",
-        "texto": "Relativamente aos crimes de trânsito, o conduzir veículo automotor sob a influência de álcool ou com a capacidade psicomotora alterada em razão do álcool, pode se constituir, conforme o caso, em elementar dos tipos penais dos Arts. 306 e 310 da Lei nº 9.503/1997 - CTB, além de qualificadora para os crimes de “homicídio culposo na direção de veículo automotor” (Art. 302, § 3º) e “lesão corporal culposa na direção de veículo automotor (Art. 303, § 2º).",
+        "texto": "Relativamente aos crimes de trânsito, o conduzir veículo automotor sob a influência de substância psicoativa que determine dependência ou com a capacidade psicomotora alterada em razão de substância psicoativa que determine dependência, pode se constituir, conforme o caso, em elementar dos tipos penais dos arts. 306 e 310 da Lei nº 9.503/1997 - CTB, além de qualificadora para os crimes de “homicídio culposo na direção de veículo automotor” (art. 302, § 3º) e “lesão corporal culposa na direção de veículo automotor (art. 303, § 2º).",
         "subitens": []
       },
       {
         "numero": "2",
-        "texto": "A produção de eventual contraprova, a que alude o §2º, do art. 306 do CTB, é de responsabilidade exclusiva da polícia judiciária, em momento posterior à apresentação do preso.",
+        "texto": "A produção de eventual contraprova, a que alude o art. 306, §2º, do CTB, é de responsabilidade exclusiva da polícia judiciária, em momento posterior à apresentação do preso.",
+        "subitens": []
+      },
+      {
+        "numero": "3",
+        "texto": "Os exames de sangue, clínico ou laboratoriais, nos termos da regulamentação do Contran, são suplementares, a serem realizados a critério da autoridade policial, podendo servir como contraprova, no âmbito do inquérito. Permanecendo válidos os resultados obtidos, pelo agente da autoridade de trânsito, em teste com aparelho destinado à verificação da presença de outra substância psicoativa, ou sinais da alteração da capacidade psicomotora, para fins da comprovação da infração administrativa e da adoção de providências de polícia judiciária.",
         "subitens": []
       }
     ],
     "reliable": true,
-    "body": " \n \n \n \n \nCONSELHO NACIONAL DE TRÂNSITO \nMANUAL BRASILEIRO DE FISCALIZAÇÃO DE TRÂNSITO – MBFT \nFICHA DE FISCALIZAÇÃO \nTipificação Resumida: \nDirigir sob a influência de álcool. \nCódigo de Enquadramento: \n516-91 \nAmparo Legal: \nArt. 165. \nTipificação do Enquadramento: \nDirigir sob a influência de álcool ou de qualquer outra substância psicoativa que determine dependência.  \nGravidade: \nGravíssima \nPenalidade: \nMulta (10 vezes) e suspensão \ndo direito de dirigir por 12 \n(doze) meses. \nMedida Administrativa: \nRecolhimento do documento de \nhabilitação e retenção do \nveículo, observado o disposto \nno § 4º do art. 270 do CTB. (Vide \na Parte Geral deste Manual). \nPode Configurar Crime de \nTrânsito: \n \nSIM \nArt. 306 e 310 do CTB \n(Vide também, informações \ncomplementares) Infrator: \nCondutor \nCompetência: \nÓrgão ou Entidade de Trânsito Estadual e Rodoviário. \nPontuação: \nNão computável \nConstatação da Infração: \nMediante abordagem. \nQuando Autuar Quando NÃO Autuar Definições e Procedimentos Exemplos do Campo de \nObservações do AIT: \n1. Condutor que apresentar \nconcentração de álcool igual \nou superior a 0,05 miligrama \nde álcool por litro de ar \nalveolar expirado (0,05 mg/L \n- medição realizada - MR) em \nteste de etilômetro. \n \n2. Condutor que se recusar a \nse submeter ao teste do \netilômetro ou a qualquer dos \nprocedimentos previstos no \nart. 277 e que apresentar \ndois ou mais sinais de \nalteração da capacidade \npsicomotora, pelo uso do \nálcool, descritos no \nrespectivo termo de \nconstatação.  \n \n3. Condutor que, submetido \na exame de sangue, \napresentar qualquer \nconcentração de álcool por \nlitro de sangue. \n1. Condutor que, em teste de \netilômetro, apresentou \nconcentração de álcool igual \nou inferior a 0,04 mg/L de ar \nalveolar (medição realizada - \nMR). \n \n2. Condutor dirigindo veículo \nsob influência de qualquer \noutra substância psicoativa \nque determine dependência, \nutilizar enquadramento \nespecífico: 516-92, art. 165. \n \n3. Condutor que se recusar a \nse submeter ao teste do \netilômetro ou a qualquer dos \nprocedimentos previstos no \nart. 277 e não apresentar \nsinais ou apresentar apenas \num sinal da alteração da \ncapacidade psicomotora, \nutilizar enquadramento \nespecífico: 757-90, art. 165-\nA. \n \n4. Condutor dirigindo o \nveículo com incapacidade \nfísica ou mental temporária, \nque comprometa a \nsegurança do trânsito, \nutilizar enquadramento \nespecífico: 733-10, art. 252, \nIII. \n \n1. ETILÔMETRO - aparelho \ndestinado à medição do teor \nalcoólico no ar alveolar. \n                 \n2. AR ALVEOLAR - ar expirado \npela boca de um indivíduo, \noriginário dos alvéolos \npulmonares. \n                                                                                                                                                                                              \n3. Do resultado do etilômetro \n(medição realizada - MR) \ndeverá ser descontada margem \nde tolerância, que será o erro \nmáximo admissível, conforme \nlegislação metrológica, de \nacordo com a “Tabela de \nValores Referenciais para \nEtilômetro” constante em \nnormativo do Contran. \n \n4. Para se constatar a alteração \nda capacidade psicomotora do \ncondutor deverá ser \nconsiderado não somente um \nsinal, mas um conjunto de \nsinais que comprovem que ele \nse encontra sob a influência de \nálcool,  podendo, ainda, serem \nutilizados, prova testemunhal, \nimagem, vídeo ou qualquer \noutro meio de prova em direito \nadmitido. \n \n5. Os sinais de alteração da  \n1. Condutor realizou teste \nde etilômetro, tendo como \nresultado 0,20 mg/L de \nálcool por litro de ar \nalveolar. Etilômetro aferido \npelo Inmetro. \n  \n2. Condutor se recusou a se \nsubmeter ao teste do \netilômetro marca xx, \nmodelo xx e nº de série xx, \napresentando dois ou mais \nsinais de alteração da \ncapacidade psicomotora, \nconforme termo de \nconstatação que \nacompanha o AIT. \n\n \n \n \n \n \ncapacidade psicomotora estão \ndescritos em normativo do \nContran e devem constar no AIT \nou em termo específico que \nacompanhe o auto. \n \n6. Quando o teste do \netilômetro apresentar valor \nigual ou superior a 0,34mg/L de \nar alveolar (MR), ou quando o \ncondutor apresentar dois ou \nmais sinais de alteração da \ncapacidade psicomotora, \ncaracteriza-se a infração penal \nprevista no art. 306 do CTB e o \ncondutor deve ser conduzido à \nautoridade competente. \n  \n7. Em caso de não apresentação \nde condutor habilitado, o \nveículo deverá ser \nencaminhado ao local definido \npelo órgão autuador.  \n \n8. É vedada a lavratura \nsimultânea de Autos de \nInfração com base nos artigos \n165 e 165-A, na mesma \nabordagem. \n \n9. O condutor deverá se \nsubmeter ao teste ou exame \nsolicitado pelo agente da \nautoridade de trânsito, no \nmomento da abordagem, cuja \nrecusa a qualquer deles \nsujeitará o infrator à infração \ndo art. 165 ou 165-A do CTB, \nconforme o caso. \n \n10.  Será considerado como \nrecusa, a simulação do sopro \npor parte do usuário durante o \nteste com etilômetro, o que \npoderá configurar infração do \nart. 165 ou 165-A, conforme o \ncaso. \n \n11.  É permitida a lavratura da \ninfração do art. 165 no caso de \natendimento de sinistros de \ntrânsito, desde que seja \npossível ao condutor realizar o \nteste ou apresente dois ou mais \nsinais de alteração da \ncapacidade psicomotora. Neste \ncaso, o horário da infração é o \nhorário em que efetivamente \nfoi realizado o teste ou constato \nos sinais, sendo que o horário \n \ndo sinistro deve ser registrado \nno campo de observações. \n \n12. Em caso de reincidência no \nperíodo de até 12 (doze) meses, \na multa aplica-se em dobro. \nInformações Complementares: \n1. Relativamente aos crimes de trânsito, o conduzir veículo automotor sob a influência de álcool ou com a capacidade psicomotora \nalterada em razão do álcool, pode se constituir, conforme o caso, em elementar dos tipos penais dos Arts. 306 e 310 da Lei nº  \n9.503/1997 - CTB, além de qualificadora para os crimes de “homicídio culposo na direção de veículo automotor” (Art. 302, § 3º) \ne “lesão corporal culposa na direção de veículo automotor (Art. 303, § 2º). \n \n2. A produção de eventual contraprova, a que alude o §2º, do art. 306 do CTB, é de responsabilidade exclusiva da polícia judiciária, \nem momento posterior à apresentação do preso. \n "
+    "body": "",
+    "fonte": "Resolução CONTRAN nº 1.031, de 17 de agosto de 2026, Anexo III (altera o Anexo da Resolução CONTRAN nº 985/2022). Conforme DOU de 18/08/2026."
   },
   {
     "id": "mbft:516-92",
     "code": "516-92",
-    "resumida": "Dirigir sob influência de substância psicoativa que determine dependência.",
-    "title": "516-92 - Dirigir sob influência de substância psicoativa que determine dependência.",
+    "resumida": "Dirigir sob influência de outra substância psicoativa que determine dependência.",
+    "title": "516-92 - Dirigir sob influência de outra substância psicoativa que determine dependência.",
     "amparo_legal": "Art. 165.",
-    "tipificacao": "Dirigir sob a influência de álcool ou de qualquer outra substância psicoativa que determine dependência.",
+    "tipificacao": "Dirigir sob a influência de álcool ou de qualquer outra substância psicoativa que determine dependência:",
     "gravidade": "Gravíssima",
-    "penalidade": "Multa (10 vezes) e suspensão do direito de dirigir por 12 (doze) meses.",
-    "medida_administrativa": "Recolhimento do documento de habilitação e retenção do veículo, observado o disposto no § 4º do art. 270 do CTB. (Vide a Parte Geral deste Manual).",
-    "crime_transito": "SIM",
+    "penalidade": "Multa (10 vezes) e suspensão do direito de dirigir por 12 meses.",
+    "medida_administrativa": "Recolhimento do documento de habilitação e retenção do veículo, observado o disposto no art. 270, § 4º, do CTB. (Vide a Parte Geral deste Manual).",
+    "crime_transito": "SIM — Art. 306 e 310 do CTB",
     "infrator": "Condutor",
-    "competencia": "Órgão ou Entidade de Trânsito Estadual e Rodoviário.",
+    "competencia": "Órgão ou Entidade de Trânsito Estadual, Municipal e Rodoviário.",
     "pontuacao": "Não computável",
     "constatacao": "Mediante abordagem.",
     "valor_multa": 2934.7,
     "quando_autuar": [
       {
         "numero": "1",
-        "texto": "Condutor que esteja conduzindo veículo automotor sob influência de substância psicoativa (outra além do álcool), constatada por exame de sangue, outros exames laboratoriais, por exame clínico, por verificação do conjunto de sinais que indiquem tal alteração ou, ainda, outros testes em aparelhos regulamentados pelo Contran.",
+        "texto": "Condutor que esteja conduzindo veículo automotor sob influência de substância psicoativa, constatada por teste em aparelho destinado à verificação da presença de outra substância psicoativa.",
         "subitens": []
       },
       {
         "numero": "2",
-        "texto": "Condutor que se recusa a se submeter a quaisquer dos testes ou procedimentos previstos no art. 277 do CTB e que apresentar dois ou mais sinais de alteração da capacidade psicomotora, pelo uso de substância psicoativa que determine dependência (outra além do álcool), descritos no respectivo termo de constatação.",
+        "texto": "Condutor que se recusar a se submeter a teste em aparelho destinado à verificação da presença de outras substâncias psicoativas e apresente pelo menos dois sinais da alteração da capacidade psicomotora.",
         "subitens": []
       }
     ],
@@ -2971,7 +2972,7 @@
       },
       {
         "numero": "2",
-        "texto": "Condutor que se recusa a se submeter a quaisquer dos testes ou procedimentos previstos no art. 277 do CTB e não apresentar ou apresentar apenas um sinal de alteração da capacidade psicomotora, pelo uso de substância psicoativa que determine dependência (outra além do álcool), descritos no respectivo termo de constatação, , utilizar enquadramento específico: 757-90, art. 165-A.",
+        "texto": "Condutor que se recusar a se submeter a teste em aparelho destinado à verificação da presença de outras substâncias psicoativas e NÃO apresentar pelo menos dois sinais da alteração da capacidade psicomotora, utilizar enquadramento específico: 757-92, art. 165-A do CTB.",
         "subitens": []
       },
       {
@@ -2983,17 +2984,17 @@
     "definicoes_procedimentos": [
       {
         "numero": "1",
-        "texto": "Para constatar a alteração da capacidade psicomotora do condutor deverá ser considerado não somente um sinal, mas um conjunto de sinais que comprovem que ele se encontra sob a influência de outra substância psicoativa que determine dependência, podendo, ainda, serem utilizados prova testemunhal, imagem, vídeo ou qualquer outro meio de prova em direito admitido.",
+        "texto": "Aparelho destinado à verificação da presença de outra substância psicoativa, certificado no âmbito do Sistema Brasileiro de Avaliação da Conformidade – SBAC, por organismo acreditado pelo Inmetro.",
         "subitens": []
       },
       {
         "numero": "2",
-        "texto": "O condutor deverá se submeter ao teste ou exame ofertado pelo agente fiscalizador, no momento da abordagem, cuja recusa a qualquer deles sujeitará o infrator à infração do art. 165 ou 165-A do CTB, conforme o caso.",
+        "texto": "O condutor deverá se submeter ao teste ofertado pelo agente da autoridade de trânsito, não lhe sendo facultado escolher qual modalidade de verificação pretende realizar.",
         "subitens": []
       },
       {
         "numero": "3",
-        "texto": "Os sinais de alteração da capacidade psicomotora estão descritos em normativo do Contran e devem constar no AIT ou em termo específico que acompanhe o auto.",
+        "texto": "Para constatar a alteração da capacidade psicomotora do condutor deverão ser identificados, pelo menos, dois sinais que comprovem que ele se encontra sob a influência de outra substância psicoativa que determine dependência, conforme normativo do Contran, os quais devem constar do AIT ou em termo específico que acompanhe o auto. De forma suplementar, poderão ser utilizados prova testemunhal, imagem, vídeo ou qualquer outro meio de prova em direito admitido.",
         "subitens": []
       },
       {
@@ -3003,7 +3004,7 @@
       },
       {
         "numero": "5",
-        "texto": "Em caso de indícios de infração penal, noticiar o fato à autoridade competente para o registro da infração penal.",
+        "texto": "Sendo constatada a condução do veículo sob influência de outra substância psicoativa, estará caracterizado o crime do artigo 306 do CTB, motivo pelo qual deverá ser noticiado o fato à autoridade competente para o registro da infração penal.",
         "subitens": []
       },
       {
@@ -3013,36 +3014,52 @@
       },
       {
         "numero": "7",
-        "texto": "É permitida a lavratura da infração do art. 165 no caso de atendimento de sinistros de trânsito, desde que seja possível ao condutor realizar o teste ou apresente dois ou mais sinais de alteração da capacidade psicomotora. Neste caso, o horário da infração é o horário em que efetivamente foi realizado o teste ou constatado os sinais, sendo que o horário do sinistro deve ser registrado no campo de observações.",
+        "texto": "Será considerado como recusa a simulação por parte do usuário durante o teste com aparelho destinado à verificação da presença de outra substância psicoativa.",
         "subitens": []
       },
       {
         "numero": "8",
-        "texto": "Em caso de reincidência no período de até 12 (doze) meses, a multa aplica-se em dobro.",
+        "texto": "É permitida a lavratura da infração do art. 165 no caso de atendimento de sinistros de trânsito, desde que seja possível ao condutor realizar o teste ou apresente pelo menos dois sinais de alteração da capacidade psicomotora. Neste caso, o horário da infração é o horário em que efetivamente foi realizado o teste ou constatado os sinais, sendo que o horário do sinistro deve ser registrado no campo de observações.",
+        "subitens": []
+      },
+      {
+        "numero": "9",
+        "texto": "Em caso de reincidência no período de até 12 meses, a multa aplica-se em dobro.",
         "subitens": []
       }
     ],
     "observacoes_ait": [
       {
         "numero": "1",
-        "texto": "Condutor apresentava um conjunto de sinais da compatível com uso de substância psicoativa do grupo estimulante, com alteração de sua capacidade psicomotora, conforme termo de constatação que acompanha esse AIT.",
+        "texto": "Condutor realizou teste em aparelho destinado à verificação da presença de outra substância psicoativa, para verificação da presença de outra substância psicoativa tendo tido resultado positivo, para a substância: xxxxxxxxxxx.",
+        "subitens": []
+      },
+      {
+        "numero": "2",
+        "texto": "Condutor que se recusou a se submeter a teste em aparelho destinado à verificação da presença de outra substância psicoativa e apresentou pelo menos dois sinais da alteração da capacidade psicomotora: xxxxxxxxxxxxx",
         "subitens": []
       }
     ],
     "informacoes_complementares": [
       {
         "numero": "1",
-        "texto": "Relativamente aos crimes de trânsito, o conduzir veículo automotor sob a influência de substância psicoativa que determine dependência ou com a capacidade psicomotora alterada em razão de substância psicoativa que determine dependência, pode se constituir, conforme o caso, em elementar dos tipos penais dos Arts. 306 e 310 da Lei nº 9.503/1997 - CTB, além de qualificadora para os crimes de “homicídio culposo na direção de veículo automotor” (Art. 302, § 3º) e “lesão corporal culposa na direção de veículo automotor (Art. 303, § 2º).",
+        "texto": "Relativamente aos crimes de trânsito, o conduzir veículo automotor sob a influência de substância psicoativa que determine dependência ou com a capacidade psicomotora alterada em razão de substância psicoativa que determine dependência, pode se constituir, conforme o caso, em elementar dos tipos penais dos arts. 306 e 310 da Lei nº 9.503/1997 - CTB, além de qualificadora para os crimes de “homicídio culposo na direção de veículo automotor” (art. 302, § 3º) e “lesão corporal culposa na direção de veículo automotor (art. 303, § 2º).",
         "subitens": []
       },
       {
         "numero": "2",
-        "texto": "A produção de eventual contraprova, a que alude o §2º, do art. 306 do CTB, é de responsabilidade exclusiva da polícia judiciária, em momento posterior à apresentação do preso.",
+        "texto": "A produção de eventual contraprova, a que alude o art. 306, §2º, do CTB, é de responsabilidade exclusiva da polícia judiciária, em momento posterior à apresentação do preso.",
+        "subitens": []
+      },
+      {
+        "numero": "3",
+        "texto": "Os exames de sangue, clínico ou laboratoriais, nos termos da regulamentação do Contran, são suplementares, a serem realizados a critério da autoridade policial, podendo servir como contraprova, no âmbito do inquérito. Permanecendo válidos os resultados obtidos, pelo agente da autoridade de trânsito, em teste com aparelho destinado à verificação da presença de outra substância psicoativa, ou sinais da alteração da capacidade psicomotora, para fins da comprovação da infração administrativa e da adoção de providências de polícia judiciária.",
         "subitens": []
       }
     ],
     "reliable": true,
-    "body": " \n \n \n \nCONSELHO NACIONAL DE TRÂNSITO \nMANUAL BRASILEIRO DE FISCALIZAÇÃO DE TRÂNSITO – MBFT \nFICHA DE FISCALIZAÇÃO \nTipificação Resumida: \nDirigir sob influência de substância psicoativa que determine dependência.  \nCódigo do Enquadramento: \n516-92 \nAmparo Legal: \nArt. 165.  \nTipificação do Enquadramento: \nDirigir sob a influência de álcool ou de qualquer outra substância psicoativa que determine dependência.  \nGravidade: \n \nGravíssima \nPenalidade: \nMulta (10 vezes) e suspensão \ndo direito de dirigir por 12 \n(doze) meses. \n \nMedida Administrativa: \nRecolhimento do documento \nde habilitação e retenção do \nveículo, observado o disposto \nno § 4º do art. 270 do CTB. \n(Vide a Parte Geral deste \nManual). \nPode Configurar Crime de \nTrânsito: \n \nSIM \nArt. 306 e 310 do CTB \n (Vide também, informações \ncomplementares)  \n \n \nInfrator: \nCondutor \nCompetência: \nÓrgão ou Entidade de Trânsito Estadual e Rodoviário. \nPontuação: \nNão computável \nConstatação da Infração: \nMediante abordagem. \nQuando Autuar Quando NÃO Autuar Definições e Procedimentos Exemplos do Campo de \nObservações do AIT: \n1. Condutor que esteja \nconduzindo veículo \nautomotor sob influência de \nsubstância psicoativa (outra \nalém do álcool), constatada \npor exame de sangue, outros \nexames laboratoriais, por \nexame clínico, por \nverificação do conjunto de \nsinais que indiquem tal \nalteração ou, ainda, outros \ntestes em aparelhos \nregulamentados pelo \nContran. \n \n2. Condutor que se recusa a \nse submeter a quaisquer dos \ntestes ou procedimentos \nprevistos no art. 277 do CTB \ne que apresentar dois ou \nmais sinais de alteração da \ncapacidade psicomotora, \npelo uso de substância \npsicoativa que determine \ndependência (outra além do \nálcool), descritos no \nrespectivo termo de \nconstatação. \n1. Condutor dirigindo veículo \nsob influência de álcool, \nutilizar enquadramento \nespecífico: 516-91, art. 165. \n \n2. Condutor que se recusa a \nse submeter a quaisquer dos \ntestes ou procedimentos \nprevistos no art. 277 do CTB \ne não apresentar ou \napresentar apenas um sinal \nde alteração da capacidade \npsicomotora, pelo uso de \nsubstância psicoativa que \ndetermine dependência \n(outra além do álcool), \ndescritos no respectivo \ntermo de constatação, , \nutilizar enquadramento \nespecífico: 757-90, art. 165-\nA. \n \n3. Condutor dirigindo o \nveículo com incapacidade \nfísica ou mental temporária, \nque comprometa a \nsegurança do trânsito, \nutilizar enquadramento \nespecífico: 733-10, art. 252, \nIII. \n1. Para constatar a alteração \nda capacidade psicomotora do \ncondutor deverá ser \nconsiderado não somente um \nsinal, mas um conjunto de \nsinais que comprovem que ele \nse encontra sob a influência \nde outra substância psicoativa \nque determine dependência,  \npodendo, ainda, serem \nutilizados prova testemunhal, \nimagem, vídeo ou qualquer \noutro meio de prova em \ndireito admitido. \n \n2. O condutor deverá se \nsubmeter ao teste ou exame \nofertado pelo agente \nfiscalizador, no momento da \nabordagem, cuja recusa a \nqualquer deles sujeitará o \ninfrator à infração do art. 165 \nou 165-A do CTB, conforme o \ncaso. \n \n3. Os sinais de alteração da \ncapacidade psicomotora estão \ndescritos em normativo do \nContran e devem constar no \nAIT ou em termo específico \nque acompanhe o auto. \n \n4. Em caso de não \napresentação de condutor \nhabilitado, o veículo deverá \n1. Condutor apresentava um \nconjunto de sinais da \ncompatível com uso de \nsubstância psicoativa do \ngrupo estimulante, com \nalteração de sua capacidade \npsicomotora, conforme termo \nde constatação que \nacompanha esse AIT. \n\n \nser encaminhado ao local \ndefinido pelo órgão autuador. \n \n5. Em caso de indícios de \ninfração penal, noticiar o fato \nà autoridade competente para \no registro da infração penal. \n \n6. É vedada a lavratura \nsimultânea de autos de \ninfração com base nos artigos \n165 e 165-A, na mesma \nabordagem. \n \n7.  É permitida a lavratura da \ninfração do art. 165 no caso \nde atendimento de sinistros \nde trânsito, desde que seja \npossível ao condutor realizar o \nteste ou apresente dois ou \nmais sinais de alteração da \ncapacidade psicomotora. \nNeste caso, o horário da \ninfração é o horário em que \nefetivamente foi realizado o \nteste ou constatado os sinais, \nsendo que o horário do \nsinistro deve ser registrado no \ncampo de observações. \n \n8. Em caso de reincidência no \nperíodo de até 12 (doze) \nmeses, a multa aplica-se em \ndobro. \nInformações Complementares: \n1. Relativamente aos crimes de trânsito, o conduzir veículo automotor sob a influência de substância psicoativa que determine \ndependência ou com a capacidade psicomotora alterada em razão de substância psicoativa que determine dependência, pode \nse constituir, conforme o c aso, em elementar dos tipos penais dos Arts. 306 e 310 da Lei nº 9.503/1997 - CTB, além de \nqualificadora para os crimes de “homicídio culposo na direção de veículo automotor” (Art. 302, § 3º) e “lesão corporal culposa \nna direção de veículo automotor (Art. 303, § 2º). \n \n2. A produção de eventual contraprova, a que alude o §2º, do art. 306 do CTB, é de responsabilidade exclusiva da polícia judiciária, \nem momento posterior à apresentação do preso. \n \n "
+    "body": "",
+    "fonte": "Resolução CONTRAN nº 1.031, de 17 de agosto de 2026, Anexo III (altera o Anexo da Resolução CONTRAN nº 985/2022). Conforme DOU de 18/08/2026."
   },
   {
     "id": "mbft:517-70",
@@ -42128,32 +42145,37 @@
     "body": " \n \n \n \n \n \nCONSELHO NACIONAL DE TRÂNSITO \nMANUAL BRASILEIRO DE FISCALIZAÇÃO DE TRÂNSITO – MBFT \nFICHA DE FISCALIZAÇÃO \nTipificação Resumida: \nConduzir veíc de transp passag ou carga em desacordo c/ as cond do art 67 -C CTB. \nCódigo do Enquadramento: \n756-00 \nAmparo Legal: \nArt. 230, XXIII. \nTipificação do Enquadramento: \nConduzir o veículo em desacordo com as condições estabelecidas no art. 67 -C, relativamente ao tempo de permanência do \ncondutor ao volante e aos intervalos para descanso, quando se tratar de veíc ulo de transporte de carga ou coletivo de \npassageiros. \nGravidade: \nMédia \n \n \nPenalidade: \nMulta \nMedida Administrativa: \nRetenção do veículo para \ncumprimento do tempo de \ndescanso aplicável. (Vide a Parte \nGeral deste Manual) \nPode Configurar Crime de \nTrânsito: \n \nNÃO \nInfrator: \nCondutor \nCompetência: \nÓrgão ou Entidade de Trânsito Municipal e Rodoviário. \nPontuação: \n4 \nConstatação da Infração: \nMediante abordagem. \nQuando Autuar Quando NÃO Autuar Definições e Procedimentos Exemplos do Campo de \nObservações do AIT \n1. Condutor de veículo de \ncarga com peso bruto total \nsuperior a 4.536 (quatro mil e \nquinhentos e trinta e seis) \nquilogramas, que não \nobservou o intervalo mínimo \nde 30 (trinta) minutos de \ndescanso dentro da jornada \nde 6 (seis) horas. \n \n2. Condutor de veículo  de \ntransporte coletivo de \npassageiros, com mais de 10 \n(dez) lugares, que não \nobservou o intervalo mínimo \nde 30 (trinta) minutos de \ndescanso, dentro da jornada \nde 4 (quatro) horas e meia. \n \n3. Condutor de veículo de \ntransporte coletivo de \npassageiros, com m ais de 10 \n(dez) lugares, ou de \ntransporte de carga com peso \nbruto total superior a 4.536 \n(quatro mil e quinhentos e \ntrinta e seis) quilogramas, \nque deixar de respeitar o \nintervalo mínimo de 11 \n(onze) horas de descanso, nas \núltimas 24 (vinte e quatro) \nhoras. \n \n1. Em situações excepcionais \nde inobservância justificada \ndo tempo de direção, \ndevidamente registradas, o \ntempo de direção poderá ser \nelevado pelo  período \nnecessário para que o \ncondutor, o veículo e a carga \ncheguem a um lugar que \nofereça a segurança e o \natendimento demandados, \ndesde que não haja \ncomprometimento da \nsegurança rodoviária. \n \n2. Considera -se situação \nexcepcional de inobservância \njustificada do tempo de \ndireção e de descanso do \nmotorista profissional, \nindependentemente de \nregistros ou anotações: \n2.1. a indisponibilidade de \npontos de parada ou de \ndescanso na rota \nprogramada; \n2.2. exaurimento das vagas \nde estacionamento nos \npontos de parada ou de \ndescanso. \n \n3. O motorista profissional \ncondutor de veículos ou \n1. MOTORISTA PROFISSIONAL - \ncondutor que exerce atividade \nremunerada ao veículo. \n \n2. TEMPO DE DIREÇÃO - período \nem que o condut or estiver \nefetivamente ao volante de um \nveículo em movimento. \n \n3. INTERVALO DE DESCANSO - \nperíodo de tempo em que o \ncondutor estiver efetivamente \ncumprindo o descanso, \ncomprovado por meio dos \ndocumentos previstos na \nregulamentação do Contran, \nnão computadas as interrupções \ninvoluntárias, tais como as \ndecorrentes de \nengarrafamentos, semáforo e \nsinalização de trânsito. \n4. FICHA DE TRABALHO DO \nAUTÔNOMO - ficha de controle \ndo tempo de direção e do \nintervalo de descanso do \nmotorista profissional \nautônomo, que d everá sempre \nacompanhá-lo no exercício de \nsua profissão. \n5. Estão sujeitos aos \nprocedimentos para fiscalização \n1. O condutor dirigiu por \n6h45m, não cumprindo o \ndescanso de 30 min, mesmo \nhavendo local apropriado. \n \n2. O condutor não cumpriu o \ndescanso de 8 horas \nininterruptas, nas últimas 24 \nhoras, mesmo havendo local \napropriado.  \n \n3. Veículo com 2 condutores \nque não cumpriram o \ndescanso de 6 horas c/ \nveículo parado, nas últimas \n72 horas. \n \n4. O condutor não \napresentou disco -diagrama \ndo cronotacógrafo ou \nqualquer outro meio de \ncomprovação de tempo de \ndireção e intervalo de \ndescanso (diário de bordo, \npapeleta ou ficha de \ntrabalho). \n \n5. Disco -diagrama do \ncronotacógrafo vencido e \nnão apresentou qualquer \noutro meio de comprovação \ndos tempos de direção e \nintervalo de descanso (diário \n\n \n \n4. Condutor de veículo de \ntransporte coletivo de \npassageiros, com mais de 10 \n(dez) lugares,  ou de \ntransporte de carga com peso \nbruto total superior a 4.536 \n(quatro mil e quinhentos e \ntrinta e seis) quilogramas, \nque deixar de respeitar o \nintervalo de de scanso \nmínimo de 08 (oito) horas \nininterruptas, nas últimas 24 \n(vinte e quatro) horas. \n \n5. Condutor(es) de veículo de \ntransporte coletivo de \npassageiros, com mais de 10 \n(dez) lugares, ou de \ntransporte de carga com peso \nbruto total superior a 4.536 \n(quatro mil e quinhentos e \ntrinta e seis) quilogramas, \ndotado de 2 (dois) \nmotoristas, que não \nobservaram o intervalo \nmínimo de 6 (seis) horas de \ndescanso com o veículo \nparado nas últimas 72 \n(setenta e duas) horas. \n \n6. Condutor de veículo de \ntransporte de escolares que \nnão observou o intervalo \nmínimo de 30 minutos de \ndescanso, dentro da jornada \nde 4 (quatro) horas e meia, \nmesmo havendo local \napropriado. \n \n7. Condutor de veículo de \ntransporte de escolares que \ndeixar de respeitar o \nintervalo mínimo de 11 \n(onze) horas de descanso, nas \núltimas 24 (vinte e quatro) \nhoras. \n \n8. Condutor que deixar de \napresentar ao agente de \ntrânsito qualquer um dos \nmeios de fiscalização do \ntempo de direção ou \nintervalo de descanso (disco \nou fita diagrama do \nregistrador instantâneo e \ninalterável de velocidade e \ntempo; ou ainda, conforme o \ncaso, diário de bordo, \npapeleta ou ficha de trabalho \nexterna). \ncomposições de transporte \nrodoviário de cargas que não \nobservar os períodos de \ndireção e de descanso \nquando ocorrer a sit uação \nexcepcional descrita item 02, \nacima. \n \n4. Nas hipóteses de \nfracionamento do intervalo \nde descanso previstas na \nlegislação.  \ndo tempo de direção e intervalo \nde descanso os motoristas \nprofissionais na condução de: \na) veículos de transporte e de \ncondução de escolares;  \nb) veículos de transporte de \npassageiros com mais de 10 \n(dez) lugares; \nc) Veículos de carga com peso \nbruto total superior a 4.536 kg \n(quatro mil e quinhentos e trinta \ne seis) quilogramas. \n \n6. O tempo de direção será \ncontrolado, preferencialmente, \nmediante a análise do \nregistrador instantâneo e \ninalterável de velocidade e \ntempo ou por meios eletrônicos \ninstalados no veículo, conforme \nnorma do Contran. \n6.1. Quando da impossibilidade \nda comprovação do tempo de \ndireção e do intervalo de \ndescanso por meio do disco  ou \nfita diagrama do registrador \ninstantâneo e inalterável de \nvelocidade e tempo do próprio \nveículo, poderão ser utilizados a: \na) verificação do diário de \nbordo, papeleta ou ficha de \ntrabalho externo, fornecida pelo \nempregador; \nb) verificação da ficha de \ntrabalho do autônomo. \n6.2. Os documentos listados nas \nalíneas “a)” e “b)” poderão ser \nfísicos ou digitais (gerados por \nmeio de programa de \ncomputador ou aplicativo para \nsmartphone que permita \nregistrar o tempo de direção). \n \n7. A fiscalização do tempo de \ndireção e do intervalo de \ndescanso do motorista \nprofissional dar -se-á, \npreferencialmente, por meio da \nanálise do disco ou fita diagrama \ndo registrador instantâneo e \ninalterável de velocidade e \ntempo ou de outros meios \neletrônicos idôneos instalados \nno veículo , na forma \nregulamentada pelo Contran. \n \n8. As autuações por falta de \ndisco-diagrama (art. 230, X), \ndisco vencido (art. 230, X), \ncronotacógrafo sem aferição \nde bordo, papeleta ou ficha \nde trabalho). \n \n6. Cronotacógrafo com \ncertificação metrológica \nvencida/sem aferição e não \napresentou qualquer outro \nmeio de comprovação de \ntempo de direção e de \ndescanso (diário de bordo, \npapeleta ou ficha de \ntrabalho). \n \n \n(art. 230, X), cronotacógrafo \nviciado ou com defeito (art. 230, \nXIV), serão concomitantes com a \nautuação pelo descumprimento \ndos tempos de d ireção e \ndescanso do motorista \nprofissional (art. 230, XXIII), \nconforme o caso. \n \n9. Cabe ao motorista \nprofissional a comprovação do \ncumprimento dos intervalos de \ndescanso previstos, valendo -se \ndos meios disciplinados e \nregulamentados pelo Contran. \n \n10. Em caso de reincidência no \nperíodo de até 12 (doze) meses, \na infração passará a ser de \nnatureza grave. \n \n11. Entre outras, as situações \nabaixo ensejam a \ndesqualificação do registrador \ninstantâneo e inalterável de \nvelocidade e tempo como meio \nde prova idôneo pa ra \ncomprovar o tempo de direção e \nintervalo de descanso: \na) quando ele estiver sem o \ndisco ou fita diagrama; \nb) quando o disco ou fita \ndiagrama estiver sem o \npreenchimento dos dados \nobrigatórios (nome, placa e \ndata); \nc) cronotacógrafo sem lacres ou \ncom os lacres violados; \nd) cronotacógrafo viciado ou \ndefeituoso (p. ex. com agulha \nrebaixada, calçada ou sem o \nregistro de alguma agulha); \ne) utilização de disco diagrama \ninadequado; \nf) registro equivocado de \nhorário no disc o ou fita \ndiagrama; \ng) disco diagrama vencido ou \ncom sobreposição de grafia; \nh) cronotacógrafo inoperante, \nsem nenhum registro ou \ndesligado; \ni) disco diagrama com registros \nalterados, registros manuais ou \ncom deslocamentos sem \nregistro devido ao \ncronotacógrafo estar aberto; \nj) cronotacógrafo sem a \ncertificação metrológica do \nInmetro, ou com esta vencida, \n \n \nsem os selos ou com a \ninformação destes em \ndesacordo. \n \n12. Nos casos dispostos no item \n11 (acima), a comprovação do \ntempo de direção e intervalo de \ndescanso dar -se-á por meio da \nanálise do diário de bordo, \npapeleta, ficha de trabalho \nexterno ou de autônomo, caso \nexistente. \n \n13. O condutor é obrigado, \ndentro do período de 24 (vinte e \nquatro) horas, a observar o \nmínimo de 11 (onze) horas de \ndescanso, que podem  ser \nfracionadas, na forma da lei e \nusufruídas no veículo, sendo \nque deve haver um período de 8 \n(oito) horas ininterruptas de \ndescanso.  \n \n14. Serão observados 30 (trinta) \nminutos para descanso dentro \nde cada 6 (seis) horas na \ncondução de veículo de \ntransporte de carga, sendo \nfacultado o seu fracionamento e \no do tempo de direção desde \nque não ultrapassadas 5 (cinco) \nhoras e meia contínuas no \nexercício da condução. \n \n15. Serão observados 30 (trinta) \nminutos para descanso dentro \nde cada 4 (quatro) horas e meia, \nna condução de veículo de \ntransporte coletivo de \npassageiros, sendo facultado o \nseu fracionamento (em tempo \nnão inferior a 05 minutos) e o do \ntempo de direção. \n16. Para controle do tempo de \ndireção e do intervalo de \ndescanso, quando a fiscalização \nfor efetuada por meio da análise \ndo registrador instantâneo e \ninalterável de velocidade e \ntempo, deverá ser descontado \nda medição realizada, o erro \nmáximo admitido de 2  (dois) \nminutos a cada 24 (vinte e \nquatro) horas e 10 (dez) minutos \na cada 7 (sete) dias. \nInformações Complementares: \n \n \n1. Resolução do Contran nº 525/2015 - Dispõe sobre a fiscalização do tempo de direção do motorista profissional de que trata os \nartigos 67-A, 67-C e 67-E, incluídos no Código de Trânsito Brasileiro – CTB, pela Lei n° 13.103, de 02 de março de 2015, e dá outras \nprovidências. \n \n2. Quando o agente de trânsito realizar a fiscalização por meio da análise do disco ou fita diagrama do registrador instantân eo e \ninalterável de velocidade e tempo, ele deve registrar no verso, no ato da fiscalização, seu nome e matrícula, data, hora e local da \nfiscalização. \n \n3. Quando o agente de trânsito realizar a fiscalização por meio da análise do diário de bordo, papeleta, ficha de trabalho externa \nou ficha de trabalho do autônomo, ele deve registrar, no ato da fiscalização, no ver so ou anverso, seu nome e matrícula, data, \nhora e local da fiscalização. \n "
   },
   {
-    "id": "mbft:757-90",
-    "code": "757-90",
-    "resumida": "Rec sub test, ex clin, peric ou proc q perm cert infl álc/sub psic for art. 277.",
-    "title": "757-90 - Rec sub test, ex clin, peric ou proc q perm cert infl álc/sub psic for art. 277.",
+    "id": "mbft:757-91",
+    "code": "757-91",
+    "resumida": "Rec sub test, ex clin, peric ou proc q perm cert infl álc for art. 277.",
+    "title": "757-91 - Rec sub test, ex clin, peric ou proc q perm cert infl álc for art. 277.",
     "amparo_legal": "Art. 165-A.",
     "tipificacao": "Recusar-se a ser submetido a teste, exame clínico, perícia ou outro procedimento que permita certificar influência de álcool ou outra substância psicoativa, na forma estabelecida pelo art. 277.",
     "gravidade": "Gravíssima",
-    "penalidade": "Multa (10X) e suspensão do direito de dirigir por 12 (doze) meses",
-    "medida_administrativa": "Recolhimento do documento de habilitação e retenção do veículo, observado o disposto no § 4º do art. 270. (Vide Parte Geral deste Manual).",
+    "penalidade": "Multa (10X) e suspensão do direito de dirigir por 12 meses",
+    "medida_administrativa": "Recolhimento do documento de habilitação e retenção do veículo, observado o disposto no art. 270, § 4º. (Vide Parte Geral deste Manual).",
     "crime_transito": "NÃO",
     "infrator": "Condutor",
-    "competencia": "Órgão ou Entidade de Trânsito Estadual e Rodoviário.",
+    "competencia": "Órgão ou Entidade de Trânsito Estadual, Municipal e Rodoviário.",
     "pontuacao": "Não computável",
     "constatacao": "Mediante abordagem.",
     "valor_multa": 2934.7,
     "quando_autuar": [
       {
         "numero": "1",
-        "texto": "Condutor que se recusar a se submeter a qualquer dos procedimentos previstos no art. 277 (teste de etilômetro, exame clínico, perícia ou outro procedimento, na forma disciplinada pelo Contran) e não apresentar ou apresentar apenas um sinal da alteração da capacidade psicomotora.",
+        "texto": "Condutor que se recusar a se submeter a teste em aparelho destinado à medição do teor alcoólico no ar alveolar e NÃO apresentar pelo menos dois sinais da alteração da capacidade psicomotora.",
         "subitens": []
       }
     ],
     "quando_nao_autuar": [
       {
         "numero": "1",
-        "texto": "Condutor que se recusar a se submeter a qualquer dos procedimentos previstos no art. 277 e apresenta dois ou mais sinais de alteração da capacidade psicomotora, utilizar enquadramento específico: 516-91 (álcool) ou 516-92 (outra substância psicoativa), art. 165.",
+        "texto": "Condutor que se recusar a se submeter ao teste aparelho destinado à medição do teor alcoólico no ar alveolar e apresenta dois ou mais sinais de alteração da capacidade psicomotora, utilizar enquadramento específico: 516-91 (álcool) art. 165.",
+        "subitens": []
+      },
+      {
+        "numero": "2",
+        "texto": "Condutor que se recusar a se submeter a teste em aparelho destinado à verificação da presença de outras substâncias psicoativas e apresente pelo menos dois sinais da alteração da capacidade psicomotora, utilizar enquadramento específico: 516-92, art. 165.",
         "subitens": []
       }
     ],
@@ -42165,12 +42187,12 @@
       },
       {
         "numero": "2",
-        "texto": "RECUSA: caracterizada pela manifestação inequívoca do condutor após ser a ele ofertada a possibilidade de realizar quaisquer testes ou exames e esclarecido que a recusa configura infração. Após a referida manifestação, estará configurada a infração não sendo possível nova oportunidade para realização do teste.",
+        "texto": "RECUSA: caracterizada pela manifestação inequívoca do condutor após ser a ele ofertada a possibilidade de realizar quaisquer testes e esclarecido que a recusa configura infração, não lhe sendo facultado escolher qual modalidade de verificação pretende realizar. Após a referida manifestação, estará configurada a infração não sendo possível nova oportunidade para realização do teste.",
         "subitens": []
       },
       {
         "numero": "3",
-        "texto": "O condutor poderá ser submetido aos testes e exames do art. 277, sendo que a recusa a qualquer teste, exame ou procedimento ofertado pelo agente fiscalizador configura infração.",
+        "texto": "Não se dará o preenchimento do termo específico, se o condutor não apresentar ou apresentar apenas um sinal de alteração da capacidade psicomotora.",
         "subitens": []
       },
       {
@@ -42180,17 +42202,22 @@
       },
       {
         "numero": "5",
-        "texto": "Não se dará o preenchimento do termo específico, se o condutor não apresentar ou apresentar apenas um sinal de alteração da capacidade psicomotora.",
-        "subitens": []
-      },
-      {
-        "numero": "6",
         "texto": "Será considerado como recusa a simulação do sopro por parte do usuário durante o teste com etilômetro.",
         "subitens": []
       },
       {
+        "numero": "6",
+        "texto": "É permitida a lavratura da infração do Art. 165-A no caso de atendimento de sinistros de trânsito, desde que seja possível ao condutor realizar o teste e, deliberadamente, ocorra a recusa. Nestes casos, o horário da infração é o horário em que efetivamente se deu o ato da recusa, sendo que o horário do sinistro deve ser registrado no campo de observações.",
+        "subitens": []
+      },
+      {
         "numero": "7",
-        "texto": "É permitida a lavratura da infração do Art. 165-A no caso de atendimento de sinistros de trânsito, desde que seja possível ao condutor realizar o teste e, deliberadamente, ocorreu a recusa. Nestes casos, o horário da infração é o horário em que efetivamente se deu o ato da recusa, sendo que o horário do sinistro deve ser registrado no campo de observações.",
+        "texto": "É vedada a lavratura simultânea de autos de infração com base nos artigos 165 e 165-A, na mesma abordagem.",
+        "subitens": []
+      },
+      {
+        "numero": "8",
+        "texto": "Em caso de reincidência no período de até 12 meses, a multa aplica-se em dobro.",
         "subitens": []
       }
     ],
@@ -42204,10 +42231,95 @@
         "numero": "2",
         "texto": "Condutor recusou-se a se submeter ao teste de etilômetro e apresentava apenas um sinal da alteração da capacidade psicomotora. Etilômetro marca xx, modelo xx e nº de série xx.",
         "subitens": []
+      }
+    ],
+    "informacoes_complementares": [
+      {
+        "numero": null,
+        "texto": "Não há.",
+        "subitens": []
+      }
+    ],
+    "reliable": true,
+    "body": "",
+    "fonte": "Resolução CONTRAN nº 1.031, de 17 de agosto de 2026, Anexo III (altera o Anexo da Resolução CONTRAN nº 985/2022). Conforme DOU de 18/08/2026."
+  },
+  {
+    "id": "mbft:757-92",
+    "code": "757-92",
+    "resumida": "Rec sub test, ex clin, peric ou proc q perm cert influ out subst psic, for art. 277.",
+    "title": "757-92 - Rec sub test, ex clin, peric ou proc q perm cert influ out subst psic, for art. 277.",
+    "amparo_legal": "Art. 165-A.",
+    "tipificacao": "Recusar-se a ser submetido a teste, exame clínico, perícia ou outro procedimento que permita certificar influência de álcool ou outra substância psicoativa, na forma estabelecida pelo art. 277.",
+    "gravidade": "Gravíssima",
+    "penalidade": "Multa (10X) e suspensão do direito de dirigir por 12 meses",
+    "medida_administrativa": "Recolhimento do documento de habilitação e retenção do veículo, observado o disposto no § 4º do art. 270. (Vide Parte Geral deste Manual).",
+    "crime_transito": "NÃO",
+    "infrator": "Condutor",
+    "competencia": "Órgão ou Entidade de Trânsito Estadual, Municipal e Rodoviário.",
+    "pontuacao": "Não computável",
+    "constatacao": "Mediante abordagem.",
+    "valor_multa": 2934.7,
+    "quando_autuar": [
+      {
+        "numero": "1",
+        "texto": "Condutor que se recusar a se submeter a teste em aparelho destinado à verificação da presença de outras substâncias psicoativas e NÃO apresentar pelo menos dois sinais da alteração da capacidade psicomotora.",
+        "subitens": []
+      }
+    ],
+    "quando_nao_autuar": [
+      {
+        "numero": "1",
+        "texto": "Condutor que se recusar a se submeter a teste em aparelho destinado à verificação da presença de outras substâncias psicoativas e apresente pelo menos dois sinais da alteração da capacidade psicomotora, utilizar enquadramento específico: 516-92, art. 165.",
+        "subitens": []
+      },
+      {
+        "numero": "2",
+        "texto": "Condutor que se recusar a se submeter ao teste aparelho destinado à medição do teor alcoólico no ar alveolar e apresenta dois ou mais sinais de alteração da capacidade psicomotora, utilizar enquadramento específico: 516-91 (álcool) art. 165.",
+        "subitens": []
+      }
+    ],
+    "definicoes_procedimentos": [
+      {
+        "numero": "1",
+        "texto": "Aparelho destinado à verificação da presença de outra substância psicoativa, certificado no âmbito do Sistema Brasileiro de Avaliação da Conformidade – SBAC, por organismo acreditado pelo Inmetro.",
+        "subitens": []
+      },
+      {
+        "numero": "2",
+        "texto": "RECUSA: caracterizada pela manifestação inequívoca do condutor após ser a ele ofertada a possibilidade de realizar quaisquer testes e esclarecido que a recusa configura infração, não lhe sendo facultado escolher qual modalidade de verificação pretende realizar. Após a referida manifestação, estará configurada a infração não sendo possível nova oportunidade para realização do teste.",
+        "subitens": []
       },
       {
         "numero": "3",
-        "texto": "Condutor recusou-se a ser submetido a teste de detecção de substâncias psicoativas, devidamente regulamentado pelo Contran. Equipamento marca xx, modelo xx e nº de série xx.",
+        "texto": "Não se dará o preenchimento do termo específico, se o condutor não apresentar ou apresentar apenas um sinal de alteração da capacidade psicomotora.",
+        "subitens": []
+      },
+      {
+        "numero": "4",
+        "texto": "Será considerado como recusa a simulação por parte do usuário durante o teste com aparelho destinado à verificação da presença de outra substância psicoativa.",
+        "subitens": []
+      },
+      {
+        "numero": "5",
+        "texto": "É permitida a lavratura da infração do Art. 165-A no caso de atendimento de sinistros de trânsito, desde que seja possível ao condutor realizar o teste e, deliberadamente, ocorra a recusa. Nestes casos, o horário da infração é o horário em que efetivamente se deu o ato da recusa, sendo que o horário do sinistro deve ser registrado no campo de observações.",
+        "subitens": []
+      },
+      {
+        "numero": "6",
+        "texto": "É vedada a lavratura simultânea de autos de infração com base nos artigos 165 e 165-A, na mesma abordagem.",
+        "subitens": []
+      }
+    ],
+    "observacoes_ait": [
+      {
+        "numero": "1",
+        "texto": "Condutor recusou-se a se submeter ao teste com aparelho destinado à verificação da presença de outra substância psicoativa, e não apresenta sinais da alteração da capacidade psicomotora, marca xx, modelo xx e nº de identificação xx.",
+        "subitens": []
+      },
+      {
+        "numero": "2",
+        "texto": "Condutor recusou-se a se submeter ao teste com aparelho destinado à verificação da presença de outra substância psicoativa, e apresenta apenas um sinal da alteração da capacidade psicomotora, marca xx, modelo xx e nº de identificação xx.",
         "subitens": []
       }
     ],
@@ -42219,7 +42331,8 @@
       }
     ],
     "reliable": true,
-    "body": " \n \n \nCONSELHO NACIONAL DE TRÂNSITO \nMANUAL BRASILEIRO DE FISCALIZAÇÃO DE TRÂNSITO – MBFT \nFICHA DE FISCALIZAÇÃO \nTipificação Resumida: \nRec sub test, ex clin, peric ou proc q perm cert infl álc/sub psic for art. 277.  \nCódigo do Enquadramento: \n757-90 \nAmparo Legal: \nArt. 165-A. \nTipificação do Enquadramento: \nRecusar-se a ser submetido a teste, exame clínico, perícia ou outro procedimento que permita certificar influência de álcool \nou outra substância psicoativa, na forma estabelecida pelo art. 277.  \nGravidade: \n \nGravíssima \nPenalidade: \n \nMulta (10X) e suspensão do \ndireito de dirigir por 12 \n(doze) meses \nMedida Administrativa: \nRecolhimento do documento \nde habilitação e retenção do \nveículo, observado o disposto \nno § 4º do art. 270. (Vide \nParte Geral deste Manual). \nPode Configurar Crime de \nTrânsito: \n \n \nNÃO \nInfrator: \nCondutor \nCompetência: \nÓrgão ou Entidade de Trânsito Estadual e Rodoviário. \nPontuação: \nNão computável \nConstatação da Infração: \nMediante abordagem. \nQuando Autuar Quando NÃO Autuar Definições e Procedimentos Exemplos do Campo de \nObservações do AIT \n1. Condutor que se recusar a \nse submeter a qualquer dos \nprocedimentos previstos no \nart. 277 (teste de etilômetro, \nexame clínico, perícia ou \noutro procedimento, na \nforma disciplinada pelo \nContran) e não apresentar \nou apresentar apenas um \nsinal da alteração da \ncapacidade psicomotora. \n1. Condutor que se recusar a \nse submeter a qualquer dos \nprocedimentos previstos no \nart. 277 e apresenta dois ou \nmais sinais de alteração da \ncapacidade psicomotora, \nutilizar enquadramento \nespecífico: 516-91 (álcool) ou \n516-92 (outra substância \npsicoativa), art. 165. \n1. ETILÔMETRO:                               \naparelho destinado à medição \ndo teor alcoólico no ar \nalveolar. \n \n2. RECUSA: caracterizada pela \nmanifestação inequívoca do \ncondutor após ser a ele \nofertada a possibilidade de \nrealizar quaisquer testes ou \nexames e esclarecido que a \nrecusa configura infração. \nApós a referida manifestação, \nestará configurada a infração \nnão sendo possível nova \noportunidade para realização \ndo teste. \n \n3. O condutor poderá ser \nsubmetido aos testes e \nexames do art. 277, sendo que  \na recusa a qualquer teste, \nexame ou procedimento \nofertado pelo agente \nfiscalizador configura infração. \n \n4. Em caso de recusa ao teste \ndo etilômetro, não é \nobrigatória a emissão do \nregistro da recusa, sendo \nnecessária, entretanto, a \nmenção à marca, modelo e \nnúmero de série do aparelho \nofertado, no auto de infração. \n \n1. Condutor recusou-se a se \nsubmeter ao teste de  \netilômetro e não \napresentava sinal da \nalteração da capacidade \npsicomotora. Etilômetro \nmarca xx, modelo xx e nº de \nsérie xx. \n \n2. Condutor recusou-se a se \nsubmeter ao teste de  \netilômetro e apresentava \napenas um sinal da \nalteração da capacidade \npsicomotora. Etilômetro \nmarca xx, modelo xx e nº de \nsérie xx. \n \n3. Condutor recusou-se a \nser submetido a teste de \ndetecção de substâncias \npsicoativas, devidamente \nregulamentado pelo \nContran. Equipamento \nmarca xx, modelo xx e nº de \nsérie xx. \n \n\n \n5. Não se dará o \npreenchimento do termo \nespecífico, se o condutor não \napresentar ou apresentar \napenas um sinal de alteração \nda capacidade psicomotora. \n \n6.  Será considerado como \nrecusa a simulação do sopro \npor parte do usuário durante \no teste com etilômetro. \n \n7. É permitida a lavratura da \ninfração do Art. 165-A no caso \nde atendimento de sinistros \nde trânsito, desde que seja \npossível ao condutor realizar o \nteste e, deliberadamente, \nocorreu a recusa. Nestes \ncasos, o horário da infração é \no horário em que \nefetivamente se deu o ato da \nrecusa, sendo que o horário \ndo sinistro deve ser registrado \nno campo de observações. \nInformações Complementares: \nNão há. \n "
+    "body": "",
+    "fonte": "Resolução CONTRAN nº 1.031, de 17 de agosto de 2026, Anexo III (altera o Anexo da Resolução CONTRAN nº 985/2022). Conforme DOU de 18/08/2026."
   },
   {
     "id": "mbft:758-70",
