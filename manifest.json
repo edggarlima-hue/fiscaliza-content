@@ -22,13 +22,13 @@
     }
   ],
   "app": {
-    "latest_version": "1.0.28",
-    "build_number": 110,
+    "latest_version": "1.0.29",
+    "build_number": 111,
     "minimum_supported_version": "1.0.1",
-    "download_url": "https://github.com/edggarlima-hue/fiscaliza-content/releases/download/v1.0.28/fiscaliza-1.0.28.apk",
-    "release_notes": "O link da versão web da Área de Atuação das VTRs — Capital e RMF (Links e Documentos úteis) passou para um novo endereço. Atualização recomendada. Preferencialmente, atualize usando Wi-Fi (~141 MB).",
+    "download_url": "https://github.com/edggarlima-hue/fiscaliza-content/releases/download/v1.0.29/fiscaliza-1.0.29.apk",
+    "release_notes": "Home: novo atalho Localiza-BAT, com acesso direto pelo Fiscaliza (sem código). A planilha Pontos de Referência SOP/CE (Online) agora fica em Links e Documentos úteis.",
     "mandatory": false,
-    "sha256": "fdcd89189c52b21c0ec416871ba01610f8515f36df3cd8d0563222f2c664d244",
-    "size_bytes": 147957519
+    "sha256": "d2dc75eb9681f93489fa4d0efaa11a197538e983cfd3bd5db566917293d8f447",
+    "size_bytes": 147957503
   }
 }
