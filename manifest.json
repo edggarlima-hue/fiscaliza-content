@@ -22,13 +22,13 @@
     }
   ],
   "app": {
-    "latest_version": "1.0.29",
-    "build_number": 111,
+    "latest_version": "1.0.30",
+    "build_number": 112,
     "minimum_supported_version": "1.0.1",
-    "download_url": "https://github.com/edggarlima-hue/fiscaliza-content/releases/download/v1.0.29/fiscaliza-1.0.29.apk",
-    "release_notes": "Home: novo atalho Localiza-BAT, com acesso direto pelo Fiscaliza (sem código). A planilha Pontos de Referência SOP/CE (Online) agora fica em Links e Documentos úteis.",
+    "download_url": "https://github.com/edggarlima-hue/fiscaliza-content/releases/download/v1.0.30/fiscaliza-1.0.30.apk",
+    "release_notes": "Home: o atalho Circunscrição Rodoviária do Ceará passou para Links e Documentos úteis, e entrou o novo atalho Painel BAT - BPRE (acesso ao painel agora é só pelo Fiscaliza). Atualização recomendada. Preferencialmente, atualize usando Wi-Fi (~141 MB).",
     "mandatory": false,
-    "sha256": "d2dc75eb9681f93489fa4d0efaa11a197538e983cfd3bd5db566917293d8f447",
-    "size_bytes": 147957503
+    "sha256": "1067005f6b7e41af4a282ed61a97fba149e2ed3594aac08a561b245dd7865a1b",
+    "size_bytes": 148612495
   }
 }
