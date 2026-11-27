@@ -22,13 +22,13 @@
     }
   ],
   "app": {
-    "latest_version": "1.0.30",
-    "build_number": 112,
+    "latest_version": "1.0.31",
+    "build_number": 113,
     "minimum_supported_version": "1.0.1",
-    "download_url": "https://github.com/edggarlima-hue/fiscaliza-content/releases/download/v1.0.30/fiscaliza-1.0.30.apk",
-    "release_notes": "Home: o atalho Circunscrição Rodoviária do Ceará passou para Links e Documentos úteis, e entrou o novo atalho Painel BAT - BPRE (acesso ao painel agora é só pelo Fiscaliza). Atualização recomendada. Preferencialmente, atualize usando Wi-Fi (~141 MB).",
+    "download_url": "https://github.com/edggarlima-hue/fiscaliza-content/releases/download/v1.0.31/fiscaliza-1.0.31.apk",
+    "release_notes": "Home: o card Painel BAT - BPRE agora se chama Formulário Digital - BAT.",
     "mandatory": false,
-    "sha256": "1067005f6b7e41af4a282ed61a97fba149e2ed3594aac08a561b245dd7865a1b",
+    "sha256": "b896df83221ae43899fb413ed9e0f43eb646a098ff0ca52f3d6aa900500184b3",
     "size_bytes": 148612495
   }
 }
