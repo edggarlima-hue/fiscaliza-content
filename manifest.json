@@ -22,13 +22,13 @@
     }
   ],
   "app": {
-    "latest_version": "1.0.31",
-    "build_number": 113,
+    "latest_version": "1.0.32",
+    "build_number": 114,
     "minimum_supported_version": "1.0.1",
-    "download_url": "https://github.com/edggarlima-hue/fiscaliza-content/releases/download/v1.0.31/fiscaliza-1.0.31.apk",
-    "release_notes": "Home: o card Painel BAT - BPRE agora se chama Formulário Digital - BAT.",
+    "download_url": "https://github.com/edggarlima-hue/fiscaliza-content/releases/download/v1.0.32/fiscaliza-1.0.32.apk",
+    "release_notes": "Novo aviso de atualização ao abrir o app (com o que há de novo), atualização obrigatória que bloqueia o uso e pedido de permissão de notificações no começo do uso.",
     "mandatory": false,
-    "sha256": "b896df83221ae43899fb413ed9e0f43eb646a098ff0ca52f3d6aa900500184b3",
+    "sha256": "8cd72a40143ef76b55e0251894e8f1f9f71d24935de1a92489c63e8fc45e6f8c",
     "size_bytes": 148612495
   }
 }
